@@ -1,0 +1,778 @@
+<?xml version="1.0" encoding="GBK"?>
+
+<clientVerifys> 
+  <clientVerify clientId="0" clientName=""> 
+    <ecId>0</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="1" clientName=""> 
+    <ecId>0</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="1005" clientName="申万巴黎辅通道"> 
+    <ecId>401</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="1078" clientName="上海CSA测试程序"> 
+    <ecId>1186</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="1012" clientName="国富通老"> 
+    <ecId>601</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="1015" clientName="交行级联老"> 
+    <ecId>762</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="2004611" clientName="英科国际"> 
+    <ecId>461</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="1065" clientName="新统付级联"> 
+    <ecId>521</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="1080" clientName="南菱汽车"> 
+    <ecId>1161</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="8001" clientName="测试环境测试"> 
+    <ecId>1227</ecId>  
+    <signatures>【报备1】,【报备2】,【渠道报备】</signatures>  
+    <wide/>  
+    <noSignatures/> 
+  </clientVerify>  
+  <clientVerify clientId="1072" clientName="浩鸿明凯"> 
+    <ecId>541</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="1013" clientName="安信证券"> 
+    <ecId>562</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="1026" clientName="人保财险"> 
+    <ecId>564</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="1038" clientName="汇添富基金"> 
+    <ecId>644</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="1042" clientName="百年人寿"> 
+    <ecId>645</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="1074" clientName="江西省教育厅"> 
+    <ecId>681</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="1075" clientName="九江银行"> 
+    <ecId>1183</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="1076" clientName="北京子舒通讯"> 
+    <ecId>701</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="1014" clientName="中华联合老"> 
+    <ecId>761</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="6420" clientName="达鼎信息"> 
+    <ecId>1186</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="1047" clientName="国元证券辅通道"> 
+    <ecId>421</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="1077" clientName="湘财证券"> 
+    <ecId>741</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="1022" clientName="大众保险辅通道"> 
+    <ecId>361</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="1008" clientName="国泰基金辅通道"> 
+    <ecId>381</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="1023" clientName="东方证券辅通道"> 
+    <ecId>441</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="1073" clientName="达众科技"> 
+    <ecId>1186</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="1001" clientName="国资委"> 
+    <ecId>543</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="1010" clientName="交银施罗德"> 
+    <ecId>561</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="1017" clientName="海富通基金"> 
+    <ecId>563</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="1029" clientName="合众人寿"> 
+    <ecId>581</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="1030" clientName="中金IT"> 
+    <ecId>582</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="1032" clientName="安邦财险"> 
+    <ecId>621</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="1033" clientName="国盛基金"> 
+    <ecId>622</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="1034" clientName="人保寿"> 
+    <ecId>642</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="1050" clientName="上海环境"> 
+    <ecId>646</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="1063" clientName="银华基金"> 
+    <ecId>643</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="1028" clientName="中金资产"> 
+    <ecId>641</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="1057" clientName="国富通"> 
+    <ecId>601</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="1025" clientName="报春申万级联老"> 
+    <ecId>781</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="1079" clientName="创世漫道"> 
+    <ecId>821</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="5240" clientName="中商盛达信息"> 
+    <ecId>1061</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="1085" clientName="嘉实基金"> 
+    <ecId>1186</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="1087" clientName="纽银基金"> 
+    <ecId>1186</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="3080" clientName="贝天通讯"> 
+    <ecId>1191</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="3091" clientName="安宁信息2"> 
+    <ecId>1192</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="3092" clientName="安宁信息3"> 
+    <ecId>1192</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="3120" clientName="江西林业厅"> 
+    <ecId>1209</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="9001" clientName="上海测试专用"> 
+    <ecId>1186</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="8088" clientName="上海诗莎"> 
+    <ecId>1186</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="9002" clientName="上海测试专用CBIP2.0"> 
+    <ecId>1186</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="8892" clientName="华兴软通"> 
+    <ecId>1186</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="1101" clientName="测试用1"> 
+    <ecId>1287</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="2013" clientName="尔坤最新测试"> 
+    <ecId>1186</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="9027" clientName="罗坤测试客户端"> 
+    <ecId>1287</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="9030" clientName="9030"> 
+    <ecId>1227</ecId>  
+    <signatures>【报备1】,【报备2】,【渠道报备】</signatures>  
+    <wide/>  
+    <noSignatures/> 
+  </clientVerify>  
+  <clientVerify clientId="1086" clientName="洪城水业"> 
+    <ecId>1186</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="2101" clientName="上海分公司2.0"> 
+    <ecId>1207</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="8083" clientName="江西省财政厅"> 
+    <ecId>1186</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="8813" clientName="千年舟"> 
+    <ecId>1186</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="8061" clientName="上海联通1"> 
+    <ecId>1186</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="8062" clientName="上海联通2"> 
+    <ecId>1186</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="8063" clientName="上海联通3"> 
+    <ecId>1186</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="9022" clientName="csa测试"> 
+    <ecId>1186</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="5486" clientName="交行1"> 
+    <ecId>1306</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="5487" clientName="交行2"> 
+    <ecId>1306</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="8820" clientName="北京测试"> 
+    <ecId>1186</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="9032" clientName="邬红玲测试"> 
+    <ecId>1227</ecId>  
+    <signatures>【报备1】,【报备2】,【渠道报备】</signatures>  
+    <wide/>  
+    <noSignatures/> 
+  </clientVerify>  
+  <clientVerify clientId="9033" clientName="邬红玲测试1"> 
+    <ecId>1227</ecId>  
+    <signatures>【报备1】,【报备2】,【渠道报备】</signatures>  
+    <wide/>  
+    <noSignatures/> 
+  </clientVerify>  
+  <clientVerify clientId="1081" clientName="子舒通讯"> 
+    <ecId>1182</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="1082" clientName="渠道测试程序"> 
+    <ecId>1186</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="1083" clientName="CSA客户端"> 
+    <ecId>1183</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="1084" clientName="上海客户端"> 
+    <ecId>1186</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="1088" clientName="智联招聘"> 
+    <ecId>1186</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="2200" clientName="海通证券"> 
+    <ecId>1194</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="3220" clientName="纽银基金"> 
+    <ecId>1186</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="4600" clientName="德邦基金"> 
+    <ecId>1206</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="7440" clientName="中金在线"> 
+    <ecId>1186</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="4780" clientName="运财"> 
+    <ecId>1186</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="7720" clientName="东证期货"> 
+    <ecId>1186</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="4220" clientName="天相投顾"> 
+    <ecId>1201</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="4520" clientName="交行级联"> 
+    <ecId>1197</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="5180" clientName="广州证券彩信账单"> 
+    <ecId>1203</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="6080" clientName="江西人才网"> 
+    <ecId>1186</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="6500" clientName="交行级联备"> 
+    <ecId>1197</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="4400" clientName="九江银行"> 
+    <ecId>1196</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="6280" clientName="北京全向领先"> 
+    <ecId>1186</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="2100" clientName="上海分公司1.0"> 
+    <ecId>1207</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="3100" clientName="天香园房产"> 
+    <ecId>1208</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="8081" clientName="webservice、http测试"> 
+    <ecId>1186</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="8809" clientName="本地测试用"> 
+    <ecId>1186</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="8888" clientName="测试"> 
+    <ecId>1186</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="8090" clientName="赣州校讯通"> 
+    <ecId>1186</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="8810" clientName="电讯盈科技术"> 
+    <ecId>1186</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="8889" clientName="天利测试_xl"> 
+    <ecId>1186</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="8890" clientName="上饶银行测试接口"> 
+    <ecId>1186</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="1234" clientName="53接口"> 
+    <ecId>1186</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="1203" clientName="深圳测试"> 
+    <ecId>1186</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="1227" clientName="银华测试"> 
+    <ecId>1286</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="9901" clientName="测试-中投"> 
+    <ecId>1286</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="3347" clientName="交行3347"> 
+    <ecId>1186</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="3090" clientName="安宁信息"> 
+    <ecId>1192</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="3070" clientName="逸动信息"> 
+    <ecId>1190</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="3095" clientName="洪城航空"> 
+    <ecId>1193</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="8811" clientName="阳洋科技"> 
+    <ecId>1186</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="8814" clientName="东方香港"> 
+    <ecId>1186</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="8891" clientName="mcafee"> 
+    <ecId>1186</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="9003" clientName="上海测试用"> 
+    <ecId>1186</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="1111" clientName="测试接口"> 
+    <ecId>1186</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="1000" clientName="1111"> 
+    <ecId>1186</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="9023" clientName="江西风尚购物"> 
+    <ecId>1186</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="9900" clientName="江西测试"> 
+    <ecId>1186</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="9031" clientName="南方基金"> 
+    <ecId>1227</ecId>  
+    <signatures>【报备1】,【报备2】,【渠道报备】</signatures>  
+    <wide/>  
+    <noSignatures/> 
+  </clientVerify>  
+  <clientVerify clientId="1037" clientName="太保测试"> 
+    <ecId>1346</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="1090" clientName="万科益达"> 
+    <ecId>1187</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="2720" clientName="创世漫道"> 
+    <ecId>1186</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="5260" clientName="圆通新龙"> 
+    <ecId>1186</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="8080" clientName="内网webservice测试"> 
+    <ecId>1186</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="8082" clientName="江西省财政厅"> 
+    <ecId>1186</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="8089" clientName="阳光保险"> 
+    <ecId>1186</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="8812" clientName="圆通新龙（独享）"> 
+    <ecId>1186</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="8013" clientName="江西风尚购物"> 
+    <ecId>1186</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="9011" clientName="深圳测试"> 
+    <ecId>1227</ecId>  
+    <signatures>【报备1】,【报备2】,【渠道报备】</signatures>  
+    <wide/>  
+    <noSignatures/> 
+  </clientVerify>  
+  <clientVerify clientId="2012" clientName="天利内部测试"> 
+    <ecId>1186</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="8033" clientName="通力电梯"> 
+    <ecId>1186</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="1127" clientName="天利彩信测试"> 
+    <ecId>1186</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="1217" clientName="csa客户端"> 
+    <ecId>1186</ecId>  
+    <signatures/>  
+    <wide/>  
+    <noSignatures>true</noSignatures> 
+  </clientVerify>  
+  <clientVerify clientId="9024" clientName="财通彩信"> 
+    <ecId>1227</ecId>  
+    <signatures>【报备1】,【报备2】,【渠道报备】</signatures>  
+    <wide/>  
+    <noSignatures/> 
+  </clientVerify>  
+  <clientVerify clientId="9025" clientName="9025"> 
+    <ecId>1227</ecId>  
+    <signatures>【报备1】,【报备2】,【渠道报备】</signatures>  
+    <wide/>  
+    <noSignatures/> 
+  </clientVerify>  
+  <clientVerify clientId="9026" clientName="贝天通讯"> 
+    <ecId>1227</ecId>  
+    <signatures>【报备1】,【报备2】,【渠道报备】</signatures>  
+    <wide/>  
+    <noSignatures/> 
+  </clientVerify> 
+</clientVerifys>

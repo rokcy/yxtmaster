@@ -1,0 +1,4126 @@
+<?xml version="1.0" encoding="GBK"?>
+
+<ecVerifys> 
+  <ecVerify clientId="0" productId="20121024" ecId="1186" desc="1111"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121024" ecId="1186" desc="1111"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1000" productId="20121024" ecId="1186" desc="1111"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1902200001" ecId="1186" desc="1111"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1902200001" ecId="1186" desc="1111"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1000" productId="1902200001" ecId="1186" desc="1111"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="6767" ecId="1186" desc="1111"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="6767" ecId="1186" desc="1111"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1000" productId="6767" ecId="1186" desc="1111"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20220101" ecId="1186" desc="1111"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20220101" ecId="1186" desc="1111"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1000" productId="20220101" ecId="1186" desc="1111"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121102" ecId="1186" desc="1111"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121102" ecId="1186" desc="1111"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1000" productId="20121102" ecId="1186" desc="1111"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1103700001" ecId="1186" desc="1111"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1103700001" ecId="1186" desc="1111"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1000" productId="1103700001" ecId="1186" desc="1111"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1121700001" ecId="1186" desc="1111"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1121700001" ecId="1186" desc="1111"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1000" productId="1121700001" ecId="1186" desc="1111"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20120629" ecId="1186" desc="1111"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20120629" ecId="1186" desc="1111"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1000" productId="20120629" ecId="1186" desc="1111"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20120626" ecId="641" desc="中金资产"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20120626" ecId="641" desc="中金资产"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1028" productId="20120626" ecId="641" desc="中金资产"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1902200001" ecId="1186" desc="达众科技"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1902200001" ecId="1186" desc="达众科技"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1073" productId="1902200001" ecId="1186" desc="达众科技"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="6767" ecId="1186" desc="达众科技"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="6767" ecId="1186" desc="达众科技"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1073" productId="6767" ecId="1186" desc="达众科技"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20220101" ecId="1186" desc="达众科技"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20220101" ecId="1186" desc="达众科技"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1073" productId="20220101" ecId="1186" desc="达众科技"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20120629" ecId="1186" desc="达众科技"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20120629" ecId="1186" desc="达众科技"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1073" productId="20120629" ecId="1186" desc="达众科技"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1103700001" ecId="1186" desc="达众科技"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1103700001" ecId="1186" desc="达众科技"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1073" productId="1103700001" ecId="1186" desc="达众科技"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1121700001" ecId="1186" desc="达众科技"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1121700001" ecId="1186" desc="达众科技"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1073" productId="1121700001" ecId="1186" desc="达众科技"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121024" ecId="1186" desc="达众科技"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121024" ecId="1186" desc="达众科技"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1073" productId="20121024" ecId="1186" desc="达众科技"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121102" ecId="1186" desc="达众科技"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121102" ecId="1186" desc="达众科技"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1073" productId="20121102" ecId="1186" desc="达众科技"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20120629" ecId="1186" desc="上海CSA测试程序"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20120629" ecId="1186" desc="上海CSA测试程序"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1078" productId="20120629" ecId="1186" desc="上海CSA测试程序"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121024" ecId="1186" desc="上海CSA测试程序"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121024" ecId="1186" desc="上海CSA测试程序"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1078" productId="20121024" ecId="1186" desc="上海CSA测试程序"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1902200001" ecId="1186" desc="上海CSA测试程序"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1902200001" ecId="1186" desc="上海CSA测试程序"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1078" productId="1902200001" ecId="1186" desc="上海CSA测试程序"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="6767" ecId="1186" desc="上海CSA测试程序"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="6767" ecId="1186" desc="上海CSA测试程序"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1078" productId="6767" ecId="1186" desc="上海CSA测试程序"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20220101" ecId="1186" desc="上海CSA测试程序"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20220101" ecId="1186" desc="上海CSA测试程序"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1078" productId="20220101" ecId="1186" desc="上海CSA测试程序"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121102" ecId="1186" desc="上海CSA测试程序"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121102" ecId="1186" desc="上海CSA测试程序"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1078" productId="20121102" ecId="1186" desc="上海CSA测试程序"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1103700001" ecId="1186" desc="上海CSA测试程序"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1103700001" ecId="1186" desc="上海CSA测试程序"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1078" productId="1103700001" ecId="1186" desc="上海CSA测试程序"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1121700001" ecId="1186" desc="上海CSA测试程序"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1121700001" ecId="1186" desc="上海CSA测试程序"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1078" productId="1121700001" ecId="1186" desc="上海CSA测试程序"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121024" ecId="1186" desc="渠道测试程序"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121024" ecId="1186" desc="渠道测试程序"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1082" productId="20121024" ecId="1186" desc="渠道测试程序"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="6767" ecId="1186" desc="渠道测试程序"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="6767" ecId="1186" desc="渠道测试程序"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1082" productId="6767" ecId="1186" desc="渠道测试程序"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121102" ecId="1186" desc="渠道测试程序"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121102" ecId="1186" desc="渠道测试程序"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1082" productId="20121102" ecId="1186" desc="渠道测试程序"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1103700001" ecId="1186" desc="渠道测试程序"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1103700001" ecId="1186" desc="渠道测试程序"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1082" productId="1103700001" ecId="1186" desc="渠道测试程序"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1902200001" ecId="1186" desc="渠道测试程序"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1902200001" ecId="1186" desc="渠道测试程序"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1082" productId="1902200001" ecId="1186" desc="渠道测试程序"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20120629" ecId="1186" desc="渠道测试程序"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20120629" ecId="1186" desc="渠道测试程序"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1082" productId="20120629" ecId="1186" desc="渠道测试程序"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1121700001" ecId="1186" desc="渠道测试程序"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1121700001" ecId="1186" desc="渠道测试程序"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1082" productId="1121700001" ecId="1186" desc="渠道测试程序"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20220101" ecId="1186" desc="渠道测试程序"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20220101" ecId="1186" desc="渠道测试程序"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1082" productId="20220101" ecId="1186" desc="渠道测试程序"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1902200001" ecId="1186" desc="上海客户端"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1902200001" ecId="1186" desc="上海客户端"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1084" productId="1902200001" ecId="1186" desc="上海客户端"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1121700001" ecId="1186" desc="上海客户端"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1121700001" ecId="1186" desc="上海客户端"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1084" productId="1121700001" ecId="1186" desc="上海客户端"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1103700001" ecId="1186" desc="上海客户端"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1103700001" ecId="1186" desc="上海客户端"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1084" productId="1103700001" ecId="1186" desc="上海客户端"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="6767" ecId="1186" desc="上海客户端"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="6767" ecId="1186" desc="上海客户端"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1084" productId="6767" ecId="1186" desc="上海客户端"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20120629" ecId="1186" desc="上海客户端"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20120629" ecId="1186" desc="上海客户端"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1084" productId="20120629" ecId="1186" desc="上海客户端"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121024" ecId="1186" desc="上海客户端"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121024" ecId="1186" desc="上海客户端"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1084" productId="20121024" ecId="1186" desc="上海客户端"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121102" ecId="1186" desc="上海客户端"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121102" ecId="1186" desc="上海客户端"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1084" productId="20121102" ecId="1186" desc="上海客户端"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20220101" ecId="1186" desc="上海客户端"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20220101" ecId="1186" desc="上海客户端"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1084" productId="20220101" ecId="1186" desc="上海客户端"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="6767" ecId="1186" desc="嘉实基金"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="6767" ecId="1186" desc="嘉实基金"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1085" productId="6767" ecId="1186" desc="嘉实基金"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1902200001" ecId="1186" desc="嘉实基金"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1902200001" ecId="1186" desc="嘉实基金"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1085" productId="1902200001" ecId="1186" desc="嘉实基金"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121024" ecId="1186" desc="嘉实基金"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121024" ecId="1186" desc="嘉实基金"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1085" productId="20121024" ecId="1186" desc="嘉实基金"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20220101" ecId="1186" desc="嘉实基金"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20220101" ecId="1186" desc="嘉实基金"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1085" productId="20220101" ecId="1186" desc="嘉实基金"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1121700001" ecId="1186" desc="嘉实基金"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1121700001" ecId="1186" desc="嘉实基金"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1085" productId="1121700001" ecId="1186" desc="嘉实基金"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1103700001" ecId="1186" desc="嘉实基金"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1103700001" ecId="1186" desc="嘉实基金"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1085" productId="1103700001" ecId="1186" desc="嘉实基金"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121102" ecId="1186" desc="嘉实基金"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121102" ecId="1186" desc="嘉实基金"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1085" productId="20121102" ecId="1186" desc="嘉实基金"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20120629" ecId="1186" desc="嘉实基金"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20120629" ecId="1186" desc="嘉实基金"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1085" productId="20120629" ecId="1186" desc="嘉实基金"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="6767" ecId="1186" desc="洪城水业"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="6767" ecId="1186" desc="洪城水业"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1086" productId="6767" ecId="1186" desc="洪城水业"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20220101" ecId="1186" desc="洪城水业"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20220101" ecId="1186" desc="洪城水业"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1086" productId="20220101" ecId="1186" desc="洪城水业"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121024" ecId="1186" desc="洪城水业"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121024" ecId="1186" desc="洪城水业"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1086" productId="20121024" ecId="1186" desc="洪城水业"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1121700001" ecId="1186" desc="洪城水业"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1121700001" ecId="1186" desc="洪城水业"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1086" productId="1121700001" ecId="1186" desc="洪城水业"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20120629" ecId="1186" desc="洪城水业"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20120629" ecId="1186" desc="洪城水业"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1086" productId="20120629" ecId="1186" desc="洪城水业"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1103700001" ecId="1186" desc="洪城水业"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1103700001" ecId="1186" desc="洪城水业"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1086" productId="1103700001" ecId="1186" desc="洪城水业"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1902200001" ecId="1186" desc="洪城水业"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1902200001" ecId="1186" desc="洪城水业"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1086" productId="1902200001" ecId="1186" desc="洪城水业"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121102" ecId="1186" desc="洪城水业"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121102" ecId="1186" desc="洪城水业"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1086" productId="20121102" ecId="1186" desc="洪城水业"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121024" ecId="1186" desc="纽银基金"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121024" ecId="1186" desc="纽银基金"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1087" productId="20121024" ecId="1186" desc="纽银基金"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1103700001" ecId="1186" desc="纽银基金"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1103700001" ecId="1186" desc="纽银基金"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1087" productId="1103700001" ecId="1186" desc="纽银基金"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1121700001" ecId="1186" desc="纽银基金"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1121700001" ecId="1186" desc="纽银基金"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1087" productId="1121700001" ecId="1186" desc="纽银基金"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121102" ecId="1186" desc="纽银基金"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121102" ecId="1186" desc="纽银基金"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1087" productId="20121102" ecId="1186" desc="纽银基金"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20120629" ecId="1186" desc="纽银基金"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20120629" ecId="1186" desc="纽银基金"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1087" productId="20120629" ecId="1186" desc="纽银基金"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="6767" ecId="1186" desc="纽银基金"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="6767" ecId="1186" desc="纽银基金"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1087" productId="6767" ecId="1186" desc="纽银基金"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1902200001" ecId="1186" desc="纽银基金"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1902200001" ecId="1186" desc="纽银基金"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1087" productId="1902200001" ecId="1186" desc="纽银基金"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20220101" ecId="1186" desc="纽银基金"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20220101" ecId="1186" desc="纽银基金"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1087" productId="20220101" ecId="1186" desc="纽银基金"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20220101" ecId="1186" desc="智联招聘"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20220101" ecId="1186" desc="智联招聘"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1088" productId="20220101" ecId="1186" desc="智联招聘"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="6767" ecId="1186" desc="智联招聘"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="6767" ecId="1186" desc="智联招聘"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1088" productId="6767" ecId="1186" desc="智联招聘"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121024" ecId="1186" desc="智联招聘"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121024" ecId="1186" desc="智联招聘"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1088" productId="20121024" ecId="1186" desc="智联招聘"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1103700001" ecId="1186" desc="智联招聘"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1103700001" ecId="1186" desc="智联招聘"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1088" productId="1103700001" ecId="1186" desc="智联招聘"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1902200001" ecId="1186" desc="智联招聘"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1902200001" ecId="1186" desc="智联招聘"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1088" productId="1902200001" ecId="1186" desc="智联招聘"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1121700001" ecId="1186" desc="智联招聘"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1121700001" ecId="1186" desc="智联招聘"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1088" productId="1121700001" ecId="1186" desc="智联招聘"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121102" ecId="1186" desc="智联招聘"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121102" ecId="1186" desc="智联招聘"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1088" productId="20121102" ecId="1186" desc="智联招聘"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20120629" ecId="1186" desc="智联招聘"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20120629" ecId="1186" desc="智联招聘"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1088" productId="20120629" ecId="1186" desc="智联招聘"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121024" ecId="1186" desc="测试接口"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121024" ecId="1186" desc="测试接口"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1111" productId="20121024" ecId="1186" desc="测试接口"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1121700001" ecId="1186" desc="测试接口"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1121700001" ecId="1186" desc="测试接口"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1111" productId="1121700001" ecId="1186" desc="测试接口"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1103700001" ecId="1186" desc="测试接口"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1103700001" ecId="1186" desc="测试接口"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1111" productId="1103700001" ecId="1186" desc="测试接口"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121102" ecId="1186" desc="测试接口"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121102" ecId="1186" desc="测试接口"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1111" productId="20121102" ecId="1186" desc="测试接口"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20220101" ecId="1186" desc="测试接口"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20220101" ecId="1186" desc="测试接口"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1111" productId="20220101" ecId="1186" desc="测试接口"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="6767" ecId="1186" desc="测试接口"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="6767" ecId="1186" desc="测试接口"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1111" productId="6767" ecId="1186" desc="测试接口"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1902200001" ecId="1186" desc="测试接口"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1902200001" ecId="1186" desc="测试接口"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1111" productId="1902200001" ecId="1186" desc="测试接口"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20120629" ecId="1186" desc="测试接口"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20120629" ecId="1186" desc="测试接口"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1111" productId="20120629" ecId="1186" desc="测试接口"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20120629" ecId="1186" desc="天利彩信测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20120629" ecId="1186" desc="天利彩信测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1127" productId="20120629" ecId="1186" desc="天利彩信测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20220101" ecId="1186" desc="天利彩信测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20220101" ecId="1186" desc="天利彩信测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1127" productId="20220101" ecId="1186" desc="天利彩信测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1103700001" ecId="1186" desc="天利彩信测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1103700001" ecId="1186" desc="天利彩信测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1127" productId="1103700001" ecId="1186" desc="天利彩信测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="6767" ecId="1186" desc="天利彩信测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="6767" ecId="1186" desc="天利彩信测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1127" productId="6767" ecId="1186" desc="天利彩信测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1121700001" ecId="1186" desc="天利彩信测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1121700001" ecId="1186" desc="天利彩信测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1127" productId="1121700001" ecId="1186" desc="天利彩信测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1902200001" ecId="1186" desc="天利彩信测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1902200001" ecId="1186" desc="天利彩信测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1127" productId="1902200001" ecId="1186" desc="天利彩信测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121102" ecId="1186" desc="天利彩信测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121102" ecId="1186" desc="天利彩信测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1127" productId="20121102" ecId="1186" desc="天利彩信测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121024" ecId="1186" desc="天利彩信测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121024" ecId="1186" desc="天利彩信测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1127" productId="20121024" ecId="1186" desc="天利彩信测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121024" ecId="1186" desc="深圳测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121024" ecId="1186" desc="深圳测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1203" productId="20121024" ecId="1186" desc="深圳测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20120629" ecId="1186" desc="深圳测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20120629" ecId="1186" desc="深圳测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1203" productId="20120629" ecId="1186" desc="深圳测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1121700001" ecId="1186" desc="深圳测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1121700001" ecId="1186" desc="深圳测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1203" productId="1121700001" ecId="1186" desc="深圳测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1103700001" ecId="1186" desc="深圳测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1103700001" ecId="1186" desc="深圳测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1203" productId="1103700001" ecId="1186" desc="深圳测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121102" ecId="1186" desc="深圳测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121102" ecId="1186" desc="深圳测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1203" productId="20121102" ecId="1186" desc="深圳测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20220101" ecId="1186" desc="深圳测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20220101" ecId="1186" desc="深圳测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1203" productId="20220101" ecId="1186" desc="深圳测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="6767" ecId="1186" desc="深圳测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="6767" ecId="1186" desc="深圳测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1203" productId="6767" ecId="1186" desc="深圳测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1902200001" ecId="1186" desc="深圳测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1902200001" ecId="1186" desc="深圳测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1203" productId="1902200001" ecId="1186" desc="深圳测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20220101" ecId="1186" desc="csa客户端"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20220101" ecId="1186" desc="csa客户端"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1217" productId="20220101" ecId="1186" desc="csa客户端"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1902200001" ecId="1186" desc="csa客户端"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1902200001" ecId="1186" desc="csa客户端"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1217" productId="1902200001" ecId="1186" desc="csa客户端"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="6767" ecId="1186" desc="csa客户端"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="6767" ecId="1186" desc="csa客户端"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1217" productId="6767" ecId="1186" desc="csa客户端"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1103700001" ecId="1186" desc="csa客户端"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1103700001" ecId="1186" desc="csa客户端"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1217" productId="1103700001" ecId="1186" desc="csa客户端"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20120629" ecId="1186" desc="csa客户端"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20120629" ecId="1186" desc="csa客户端"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1217" productId="20120629" ecId="1186" desc="csa客户端"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121102" ecId="1186" desc="csa客户端"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121102" ecId="1186" desc="csa客户端"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1217" productId="20121102" ecId="1186" desc="csa客户端"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1121700001" ecId="1186" desc="csa客户端"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1121700001" ecId="1186" desc="csa客户端"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1217" productId="1121700001" ecId="1186" desc="csa客户端"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121024" ecId="1186" desc="csa客户端"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121024" ecId="1186" desc="csa客户端"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1217" productId="20121024" ecId="1186" desc="csa客户端"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20120629" ecId="1186" desc="53接口"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20120629" ecId="1186" desc="53接口"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1234" productId="20120629" ecId="1186" desc="53接口"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121102" ecId="1186" desc="53接口"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121102" ecId="1186" desc="53接口"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1234" productId="20121102" ecId="1186" desc="53接口"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1121700001" ecId="1186" desc="53接口"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1121700001" ecId="1186" desc="53接口"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1234" productId="1121700001" ecId="1186" desc="53接口"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1902200001" ecId="1186" desc="53接口"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1902200001" ecId="1186" desc="53接口"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1234" productId="1902200001" ecId="1186" desc="53接口"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20220101" ecId="1186" desc="53接口"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20220101" ecId="1186" desc="53接口"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1234" productId="20220101" ecId="1186" desc="53接口"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121024" ecId="1186" desc="53接口"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121024" ecId="1186" desc="53接口"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1234" productId="20121024" ecId="1186" desc="53接口"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1103700001" ecId="1186" desc="53接口"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1103700001" ecId="1186" desc="53接口"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1234" productId="1103700001" ecId="1186" desc="53接口"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="6767" ecId="1186" desc="53接口"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="6767" ecId="1186" desc="53接口"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1234" productId="6767" ecId="1186" desc="53接口"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121024" ecId="1186" desc="天利内部测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121024" ecId="1186" desc="天利内部测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="2012" productId="20121024" ecId="1186" desc="天利内部测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1902200001" ecId="1186" desc="天利内部测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1902200001" ecId="1186" desc="天利内部测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="2012" productId="1902200001" ecId="1186" desc="天利内部测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="6767" ecId="1186" desc="天利内部测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="6767" ecId="1186" desc="天利内部测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="2012" productId="6767" ecId="1186" desc="天利内部测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20220101" ecId="1186" desc="天利内部测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20220101" ecId="1186" desc="天利内部测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="2012" productId="20220101" ecId="1186" desc="天利内部测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121102" ecId="1186" desc="天利内部测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121102" ecId="1186" desc="天利内部测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="2012" productId="20121102" ecId="1186" desc="天利内部测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1103700001" ecId="1186" desc="天利内部测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1103700001" ecId="1186" desc="天利内部测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="2012" productId="1103700001" ecId="1186" desc="天利内部测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1121700001" ecId="1186" desc="天利内部测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1121700001" ecId="1186" desc="天利内部测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="2012" productId="1121700001" ecId="1186" desc="天利内部测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20120629" ecId="1186" desc="天利内部测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20120629" ecId="1186" desc="天利内部测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="2012" productId="20120629" ecId="1186" desc="天利内部测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121024" ecId="1186" desc="尔坤最新测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121024" ecId="1186" desc="尔坤最新测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="2013" productId="20121024" ecId="1186" desc="尔坤最新测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1902200001" ecId="1186" desc="尔坤最新测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1902200001" ecId="1186" desc="尔坤最新测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="2013" productId="1902200001" ecId="1186" desc="尔坤最新测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="6767" ecId="1186" desc="尔坤最新测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="6767" ecId="1186" desc="尔坤最新测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="2013" productId="6767" ecId="1186" desc="尔坤最新测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20120629" ecId="1186" desc="尔坤最新测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20120629" ecId="1186" desc="尔坤最新测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="2013" productId="20120629" ecId="1186" desc="尔坤最新测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121102" ecId="1186" desc="尔坤最新测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121102" ecId="1186" desc="尔坤最新测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="2013" productId="20121102" ecId="1186" desc="尔坤最新测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1103700001" ecId="1186" desc="尔坤最新测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1103700001" ecId="1186" desc="尔坤最新测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="2013" productId="1103700001" ecId="1186" desc="尔坤最新测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1121700001" ecId="1186" desc="尔坤最新测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1121700001" ecId="1186" desc="尔坤最新测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="2013" productId="1121700001" ecId="1186" desc="尔坤最新测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20220101" ecId="1186" desc="尔坤最新测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20220101" ecId="1186" desc="尔坤最新测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="2013" productId="20220101" ecId="1186" desc="尔坤最新测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121024" ecId="1186" desc="创世漫道"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121024" ecId="1186" desc="创世漫道"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="2720" productId="20121024" ecId="1186" desc="创世漫道"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1902200001" ecId="1186" desc="创世漫道"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1902200001" ecId="1186" desc="创世漫道"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="2720" productId="1902200001" ecId="1186" desc="创世漫道"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="6767" ecId="1186" desc="创世漫道"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="6767" ecId="1186" desc="创世漫道"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="2720" productId="6767" ecId="1186" desc="创世漫道"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20120629" ecId="1186" desc="创世漫道"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20120629" ecId="1186" desc="创世漫道"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="2720" productId="20120629" ecId="1186" desc="创世漫道"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121102" ecId="1186" desc="创世漫道"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121102" ecId="1186" desc="创世漫道"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="2720" productId="20121102" ecId="1186" desc="创世漫道"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1103700001" ecId="1186" desc="创世漫道"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1103700001" ecId="1186" desc="创世漫道"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="2720" productId="1103700001" ecId="1186" desc="创世漫道"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1121700001" ecId="1186" desc="创世漫道"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1121700001" ecId="1186" desc="创世漫道"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="2720" productId="1121700001" ecId="1186" desc="创世漫道"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20220101" ecId="1186" desc="创世漫道"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20220101" ecId="1186" desc="创世漫道"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="2720" productId="20220101" ecId="1186" desc="创世漫道"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121024" ecId="1186" desc="纽银基金"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121024" ecId="1186" desc="纽银基金"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="3220" productId="20121024" ecId="1186" desc="纽银基金"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1902200001" ecId="1186" desc="纽银基金"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1902200001" ecId="1186" desc="纽银基金"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="3220" productId="1902200001" ecId="1186" desc="纽银基金"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="6767" ecId="1186" desc="纽银基金"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="6767" ecId="1186" desc="纽银基金"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="3220" productId="6767" ecId="1186" desc="纽银基金"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20120629" ecId="1186" desc="纽银基金"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20120629" ecId="1186" desc="纽银基金"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="3220" productId="20120629" ecId="1186" desc="纽银基金"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121102" ecId="1186" desc="纽银基金"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121102" ecId="1186" desc="纽银基金"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="3220" productId="20121102" ecId="1186" desc="纽银基金"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1103700001" ecId="1186" desc="纽银基金"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1103700001" ecId="1186" desc="纽银基金"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="3220" productId="1103700001" ecId="1186" desc="纽银基金"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1121700001" ecId="1186" desc="纽银基金"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1121700001" ecId="1186" desc="纽银基金"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="3220" productId="1121700001" ecId="1186" desc="纽银基金"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20220101" ecId="1186" desc="纽银基金"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20220101" ecId="1186" desc="纽银基金"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="3220" productId="20220101" ecId="1186" desc="纽银基金"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121024" ecId="1186" desc="交行3347"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121024" ecId="1186" desc="交行3347"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="3347" productId="20121024" ecId="1186" desc="交行3347"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1902200001" ecId="1186" desc="交行3347"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1902200001" ecId="1186" desc="交行3347"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="3347" productId="1902200001" ecId="1186" desc="交行3347"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="6767" ecId="1186" desc="交行3347"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="6767" ecId="1186" desc="交行3347"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="3347" productId="6767" ecId="1186" desc="交行3347"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20120629" ecId="1186" desc="交行3347"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20120629" ecId="1186" desc="交行3347"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="3347" productId="20120629" ecId="1186" desc="交行3347"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121102" ecId="1186" desc="交行3347"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121102" ecId="1186" desc="交行3347"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="3347" productId="20121102" ecId="1186" desc="交行3347"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1103700001" ecId="1186" desc="交行3347"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1103700001" ecId="1186" desc="交行3347"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="3347" productId="1103700001" ecId="1186" desc="交行3347"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1121700001" ecId="1186" desc="交行3347"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1121700001" ecId="1186" desc="交行3347"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="3347" productId="1121700001" ecId="1186" desc="交行3347"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20220101" ecId="1186" desc="交行3347"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20220101" ecId="1186" desc="交行3347"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="3347" productId="20220101" ecId="1186" desc="交行3347"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121024" ecId="1186" desc="运财"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121024" ecId="1186" desc="运财"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="4780" productId="20121024" ecId="1186" desc="运财"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1902200001" ecId="1186" desc="运财"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1902200001" ecId="1186" desc="运财"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="4780" productId="1902200001" ecId="1186" desc="运财"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="6767" ecId="1186" desc="运财"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="6767" ecId="1186" desc="运财"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="4780" productId="6767" ecId="1186" desc="运财"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20120629" ecId="1186" desc="运财"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20120629" ecId="1186" desc="运财"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="4780" productId="20120629" ecId="1186" desc="运财"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121102" ecId="1186" desc="运财"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121102" ecId="1186" desc="运财"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="4780" productId="20121102" ecId="1186" desc="运财"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1103700001" ecId="1186" desc="运财"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1103700001" ecId="1186" desc="运财"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="4780" productId="1103700001" ecId="1186" desc="运财"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1121700001" ecId="1186" desc="运财"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1121700001" ecId="1186" desc="运财"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="4780" productId="1121700001" ecId="1186" desc="运财"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20220101" ecId="1186" desc="运财"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20220101" ecId="1186" desc="运财"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="4780" productId="20220101" ecId="1186" desc="运财"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121024" ecId="1186" desc="圆通新龙"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121024" ecId="1186" desc="圆通新龙"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="5260" productId="20121024" ecId="1186" desc="圆通新龙"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1902200001" ecId="1186" desc="圆通新龙"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1902200001" ecId="1186" desc="圆通新龙"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="5260" productId="1902200001" ecId="1186" desc="圆通新龙"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="6767" ecId="1186" desc="圆通新龙"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="6767" ecId="1186" desc="圆通新龙"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="5260" productId="6767" ecId="1186" desc="圆通新龙"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20120629" ecId="1186" desc="圆通新龙"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20120629" ecId="1186" desc="圆通新龙"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="5260" productId="20120629" ecId="1186" desc="圆通新龙"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121102" ecId="1186" desc="圆通新龙"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121102" ecId="1186" desc="圆通新龙"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="5260" productId="20121102" ecId="1186" desc="圆通新龙"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1103700001" ecId="1186" desc="圆通新龙"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1103700001" ecId="1186" desc="圆通新龙"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="5260" productId="1103700001" ecId="1186" desc="圆通新龙"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1121700001" ecId="1186" desc="圆通新龙"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1121700001" ecId="1186" desc="圆通新龙"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="5260" productId="1121700001" ecId="1186" desc="圆通新龙"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20220101" ecId="1186" desc="圆通新龙"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20220101" ecId="1186" desc="圆通新龙"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="5260" productId="20220101" ecId="1186" desc="圆通新龙"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121024" ecId="1186" desc="江西人才网"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121024" ecId="1186" desc="江西人才网"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="6080" productId="20121024" ecId="1186" desc="江西人才网"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1902200001" ecId="1186" desc="江西人才网"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1902200001" ecId="1186" desc="江西人才网"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="6080" productId="1902200001" ecId="1186" desc="江西人才网"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="6767" ecId="1186" desc="江西人才网"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="6767" ecId="1186" desc="江西人才网"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="6080" productId="6767" ecId="1186" desc="江西人才网"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20120629" ecId="1186" desc="江西人才网"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20120629" ecId="1186" desc="江西人才网"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="6080" productId="20120629" ecId="1186" desc="江西人才网"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121102" ecId="1186" desc="江西人才网"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121102" ecId="1186" desc="江西人才网"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="6080" productId="20121102" ecId="1186" desc="江西人才网"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1103700001" ecId="1186" desc="江西人才网"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1103700001" ecId="1186" desc="江西人才网"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="6080" productId="1103700001" ecId="1186" desc="江西人才网"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1121700001" ecId="1186" desc="江西人才网"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1121700001" ecId="1186" desc="江西人才网"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="6080" productId="1121700001" ecId="1186" desc="江西人才网"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20220101" ecId="1186" desc="江西人才网"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20220101" ecId="1186" desc="江西人才网"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="6080" productId="20220101" ecId="1186" desc="江西人才网"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121024" ecId="1186" desc="北京全向领先"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121024" ecId="1186" desc="北京全向领先"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="6280" productId="20121024" ecId="1186" desc="北京全向领先"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1902200001" ecId="1186" desc="北京全向领先"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1902200001" ecId="1186" desc="北京全向领先"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="6280" productId="1902200001" ecId="1186" desc="北京全向领先"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="6767" ecId="1186" desc="北京全向领先"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="6767" ecId="1186" desc="北京全向领先"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="6280" productId="6767" ecId="1186" desc="北京全向领先"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20120629" ecId="1186" desc="北京全向领先"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20120629" ecId="1186" desc="北京全向领先"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="6280" productId="20120629" ecId="1186" desc="北京全向领先"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121102" ecId="1186" desc="北京全向领先"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121102" ecId="1186" desc="北京全向领先"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="6280" productId="20121102" ecId="1186" desc="北京全向领先"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1103700001" ecId="1186" desc="北京全向领先"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1103700001" ecId="1186" desc="北京全向领先"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="6280" productId="1103700001" ecId="1186" desc="北京全向领先"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1121700001" ecId="1186" desc="北京全向领先"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1121700001" ecId="1186" desc="北京全向领先"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="6280" productId="1121700001" ecId="1186" desc="北京全向领先"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20220101" ecId="1186" desc="北京全向领先"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20220101" ecId="1186" desc="北京全向领先"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="6280" productId="20220101" ecId="1186" desc="北京全向领先"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121024" ecId="1186" desc="达鼎信息"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121024" ecId="1186" desc="达鼎信息"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="6420" productId="20121024" ecId="1186" desc="达鼎信息"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1902200001" ecId="1186" desc="达鼎信息"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1902200001" ecId="1186" desc="达鼎信息"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="6420" productId="1902200001" ecId="1186" desc="达鼎信息"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="6767" ecId="1186" desc="达鼎信息"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="6767" ecId="1186" desc="达鼎信息"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="6420" productId="6767" ecId="1186" desc="达鼎信息"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20120629" ecId="1186" desc="达鼎信息"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20120629" ecId="1186" desc="达鼎信息"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="6420" productId="20120629" ecId="1186" desc="达鼎信息"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121102" ecId="1186" desc="达鼎信息"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121102" ecId="1186" desc="达鼎信息"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="6420" productId="20121102" ecId="1186" desc="达鼎信息"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1103700001" ecId="1186" desc="达鼎信息"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1103700001" ecId="1186" desc="达鼎信息"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="6420" productId="1103700001" ecId="1186" desc="达鼎信息"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1121700001" ecId="1186" desc="达鼎信息"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1121700001" ecId="1186" desc="达鼎信息"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="6420" productId="1121700001" ecId="1186" desc="达鼎信息"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20220101" ecId="1186" desc="达鼎信息"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20220101" ecId="1186" desc="达鼎信息"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="6420" productId="20220101" ecId="1186" desc="达鼎信息"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121024" ecId="1186" desc="中金在线"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121024" ecId="1186" desc="中金在线"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="7440" productId="20121024" ecId="1186" desc="中金在线"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1902200001" ecId="1186" desc="中金在线"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1902200001" ecId="1186" desc="中金在线"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="7440" productId="1902200001" ecId="1186" desc="中金在线"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="6767" ecId="1186" desc="中金在线"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="6767" ecId="1186" desc="中金在线"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="7440" productId="6767" ecId="1186" desc="中金在线"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20120629" ecId="1186" desc="中金在线"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20120629" ecId="1186" desc="中金在线"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="7440" productId="20120629" ecId="1186" desc="中金在线"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121102" ecId="1186" desc="中金在线"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121102" ecId="1186" desc="中金在线"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="7440" productId="20121102" ecId="1186" desc="中金在线"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1103700001" ecId="1186" desc="中金在线"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1103700001" ecId="1186" desc="中金在线"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="7440" productId="1103700001" ecId="1186" desc="中金在线"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1121700001" ecId="1186" desc="中金在线"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1121700001" ecId="1186" desc="中金在线"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="7440" productId="1121700001" ecId="1186" desc="中金在线"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20220101" ecId="1186" desc="中金在线"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20220101" ecId="1186" desc="中金在线"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="7440" productId="20220101" ecId="1186" desc="中金在线"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121024" ecId="1186" desc="东证期货"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121024" ecId="1186" desc="东证期货"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="7720" productId="20121024" ecId="1186" desc="东证期货"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1902200001" ecId="1186" desc="东证期货"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1902200001" ecId="1186" desc="东证期货"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="7720" productId="1902200001" ecId="1186" desc="东证期货"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="6767" ecId="1186" desc="东证期货"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="6767" ecId="1186" desc="东证期货"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="7720" productId="6767" ecId="1186" desc="东证期货"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20120629" ecId="1186" desc="东证期货"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20120629" ecId="1186" desc="东证期货"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="7720" productId="20120629" ecId="1186" desc="东证期货"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121102" ecId="1186" desc="东证期货"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121102" ecId="1186" desc="东证期货"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="7720" productId="20121102" ecId="1186" desc="东证期货"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1103700001" ecId="1186" desc="东证期货"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1103700001" ecId="1186" desc="东证期货"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="7720" productId="1103700001" ecId="1186" desc="东证期货"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1121700001" ecId="1186" desc="东证期货"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1121700001" ecId="1186" desc="东证期货"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="7720" productId="1121700001" ecId="1186" desc="东证期货"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20220101" ecId="1186" desc="东证期货"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20220101" ecId="1186" desc="东证期货"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="7720" productId="20220101" ecId="1186" desc="东证期货"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20120820" ecId="1227" desc="测试环境测试"> 
+    <property name="state">true</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20120820" ecId="1227" desc="测试环境测试"> 
+    <property name="state">true</property> 
+  </ecVerify>  
+  <ecVerify clientId="8001" productId="20120820" ecId="1227" desc="测试环境测试"> 
+    <property name="state">true</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121102" ecId="1186" desc="江西风尚购物"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121102" ecId="1186" desc="江西风尚购物"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8013" productId="20121102" ecId="1186" desc="江西风尚购物"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20220101" ecId="1186" desc="江西风尚购物"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20220101" ecId="1186" desc="江西风尚购物"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8013" productId="20220101" ecId="1186" desc="江西风尚购物"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="6767" ecId="1186" desc="江西风尚购物"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="6767" ecId="1186" desc="江西风尚购物"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8013" productId="6767" ecId="1186" desc="江西风尚购物"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121024" ecId="1186" desc="江西风尚购物"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121024" ecId="1186" desc="江西风尚购物"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8013" productId="20121024" ecId="1186" desc="江西风尚购物"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1103700001" ecId="1186" desc="江西风尚购物"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1103700001" ecId="1186" desc="江西风尚购物"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8013" productId="1103700001" ecId="1186" desc="江西风尚购物"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1121700001" ecId="1186" desc="江西风尚购物"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1121700001" ecId="1186" desc="江西风尚购物"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8013" productId="1121700001" ecId="1186" desc="江西风尚购物"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20120629" ecId="1186" desc="江西风尚购物"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20120629" ecId="1186" desc="江西风尚购物"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8013" productId="20120629" ecId="1186" desc="江西风尚购物"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1902200001" ecId="1186" desc="江西风尚购物"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1902200001" ecId="1186" desc="江西风尚购物"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8013" productId="1902200001" ecId="1186" desc="江西风尚购物"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1121700001" ecId="1186" desc="通力电梯"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1121700001" ecId="1186" desc="通力电梯"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8033" productId="1121700001" ecId="1186" desc="通力电梯"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1103700001" ecId="1186" desc="通力电梯"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1103700001" ecId="1186" desc="通力电梯"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8033" productId="1103700001" ecId="1186" desc="通力电梯"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121102" ecId="1186" desc="通力电梯"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121102" ecId="1186" desc="通力电梯"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8033" productId="20121102" ecId="1186" desc="通力电梯"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20220101" ecId="1186" desc="通力电梯"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20220101" ecId="1186" desc="通力电梯"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8033" productId="20220101" ecId="1186" desc="通力电梯"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="6767" ecId="1186" desc="通力电梯"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="6767" ecId="1186" desc="通力电梯"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8033" productId="6767" ecId="1186" desc="通力电梯"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1902200001" ecId="1186" desc="通力电梯"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1902200001" ecId="1186" desc="通力电梯"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8033" productId="1902200001" ecId="1186" desc="通力电梯"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121024" ecId="1186" desc="通力电梯"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121024" ecId="1186" desc="通力电梯"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8033" productId="20121024" ecId="1186" desc="通力电梯"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20120629" ecId="1186" desc="通力电梯"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20120629" ecId="1186" desc="通力电梯"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8033" productId="20120629" ecId="1186" desc="通力电梯"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1121700001" ecId="1186" desc="上海联通1"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1121700001" ecId="1186" desc="上海联通1"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8061" productId="1121700001" ecId="1186" desc="上海联通1"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20220101" ecId="1186" desc="上海联通1"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20220101" ecId="1186" desc="上海联通1"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8061" productId="20220101" ecId="1186" desc="上海联通1"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20120629" ecId="1186" desc="上海联通1"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20120629" ecId="1186" desc="上海联通1"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8061" productId="20120629" ecId="1186" desc="上海联通1"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121102" ecId="1186" desc="上海联通1"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121102" ecId="1186" desc="上海联通1"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8061" productId="20121102" ecId="1186" desc="上海联通1"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="6767" ecId="1186" desc="上海联通1"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="6767" ecId="1186" desc="上海联通1"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8061" productId="6767" ecId="1186" desc="上海联通1"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1902200001" ecId="1186" desc="上海联通1"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1902200001" ecId="1186" desc="上海联通1"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8061" productId="1902200001" ecId="1186" desc="上海联通1"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1103700001" ecId="1186" desc="上海联通1"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1103700001" ecId="1186" desc="上海联通1"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8061" productId="1103700001" ecId="1186" desc="上海联通1"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121024" ecId="1186" desc="上海联通1"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121024" ecId="1186" desc="上海联通1"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8061" productId="20121024" ecId="1186" desc="上海联通1"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121024" ecId="1186" desc="上海联通2"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121024" ecId="1186" desc="上海联通2"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8062" productId="20121024" ecId="1186" desc="上海联通2"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20120629" ecId="1186" desc="上海联通2"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20120629" ecId="1186" desc="上海联通2"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8062" productId="20120629" ecId="1186" desc="上海联通2"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1121700001" ecId="1186" desc="上海联通2"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1121700001" ecId="1186" desc="上海联通2"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8062" productId="1121700001" ecId="1186" desc="上海联通2"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20220101" ecId="1186" desc="上海联通2"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20220101" ecId="1186" desc="上海联通2"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8062" productId="20220101" ecId="1186" desc="上海联通2"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="6767" ecId="1186" desc="上海联通2"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="6767" ecId="1186" desc="上海联通2"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8062" productId="6767" ecId="1186" desc="上海联通2"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1103700001" ecId="1186" desc="上海联通2"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1103700001" ecId="1186" desc="上海联通2"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8062" productId="1103700001" ecId="1186" desc="上海联通2"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121102" ecId="1186" desc="上海联通2"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121102" ecId="1186" desc="上海联通2"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8062" productId="20121102" ecId="1186" desc="上海联通2"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1902200001" ecId="1186" desc="上海联通2"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1902200001" ecId="1186" desc="上海联通2"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8062" productId="1902200001" ecId="1186" desc="上海联通2"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20220101" ecId="1186" desc="上海联通3"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20220101" ecId="1186" desc="上海联通3"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8063" productId="20220101" ecId="1186" desc="上海联通3"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20120629" ecId="1186" desc="上海联通3"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20120629" ecId="1186" desc="上海联通3"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8063" productId="20120629" ecId="1186" desc="上海联通3"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1902200001" ecId="1186" desc="上海联通3"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1902200001" ecId="1186" desc="上海联通3"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8063" productId="1902200001" ecId="1186" desc="上海联通3"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1103700001" ecId="1186" desc="上海联通3"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1103700001" ecId="1186" desc="上海联通3"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8063" productId="1103700001" ecId="1186" desc="上海联通3"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1121700001" ecId="1186" desc="上海联通3"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1121700001" ecId="1186" desc="上海联通3"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8063" productId="1121700001" ecId="1186" desc="上海联通3"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="6767" ecId="1186" desc="上海联通3"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="6767" ecId="1186" desc="上海联通3"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8063" productId="6767" ecId="1186" desc="上海联通3"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121102" ecId="1186" desc="上海联通3"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121102" ecId="1186" desc="上海联通3"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8063" productId="20121102" ecId="1186" desc="上海联通3"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121024" ecId="1186" desc="上海联通3"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121024" ecId="1186" desc="上海联通3"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8063" productId="20121024" ecId="1186" desc="上海联通3"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20220101" ecId="1186" desc="内网webservice测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20220101" ecId="1186" desc="内网webservice测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8080" productId="20220101" ecId="1186" desc="内网webservice测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1121700001" ecId="1186" desc="内网webservice测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1121700001" ecId="1186" desc="内网webservice测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8080" productId="1121700001" ecId="1186" desc="内网webservice测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121102" ecId="1186" desc="内网webservice测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121102" ecId="1186" desc="内网webservice测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8080" productId="20121102" ecId="1186" desc="内网webservice测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="6767" ecId="1186" desc="内网webservice测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="6767" ecId="1186" desc="内网webservice测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8080" productId="6767" ecId="1186" desc="内网webservice测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121024" ecId="1186" desc="内网webservice测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121024" ecId="1186" desc="内网webservice测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8080" productId="20121024" ecId="1186" desc="内网webservice测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20120629" ecId="1186" desc="内网webservice测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20120629" ecId="1186" desc="内网webservice测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8080" productId="20120629" ecId="1186" desc="内网webservice测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1902200001" ecId="1186" desc="内网webservice测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1902200001" ecId="1186" desc="内网webservice测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8080" productId="1902200001" ecId="1186" desc="内网webservice测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1103700001" ecId="1186" desc="内网webservice测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1103700001" ecId="1186" desc="内网webservice测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8080" productId="1103700001" ecId="1186" desc="内网webservice测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1103700001" ecId="1186" desc="webservice、http测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1103700001" ecId="1186" desc="webservice、http测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8081" productId="1103700001" ecId="1186" desc="webservice、http测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20120629" ecId="1186" desc="webservice、http测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20120629" ecId="1186" desc="webservice、http测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8081" productId="20120629" ecId="1186" desc="webservice、http测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="6767" ecId="1186" desc="webservice、http测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="6767" ecId="1186" desc="webservice、http测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8081" productId="6767" ecId="1186" desc="webservice、http测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1902200001" ecId="1186" desc="webservice、http测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1902200001" ecId="1186" desc="webservice、http测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8081" productId="1902200001" ecId="1186" desc="webservice、http测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1121700001" ecId="1186" desc="webservice、http测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1121700001" ecId="1186" desc="webservice、http测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8081" productId="1121700001" ecId="1186" desc="webservice、http测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121024" ecId="1186" desc="webservice、http测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121024" ecId="1186" desc="webservice、http测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8081" productId="20121024" ecId="1186" desc="webservice、http测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121102" ecId="1186" desc="webservice、http测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121102" ecId="1186" desc="webservice、http测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8081" productId="20121102" ecId="1186" desc="webservice、http测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20220101" ecId="1186" desc="webservice、http测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20220101" ecId="1186" desc="webservice、http测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8081" productId="20220101" ecId="1186" desc="webservice、http测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1121700001" ecId="1186" desc="江西省财政厅"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1121700001" ecId="1186" desc="江西省财政厅"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8082" productId="1121700001" ecId="1186" desc="江西省财政厅"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20120629" ecId="1186" desc="江西省财政厅"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20120629" ecId="1186" desc="江西省财政厅"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8082" productId="20120629" ecId="1186" desc="江西省财政厅"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121024" ecId="1186" desc="江西省财政厅"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121024" ecId="1186" desc="江西省财政厅"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8082" productId="20121024" ecId="1186" desc="江西省财政厅"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1902200001" ecId="1186" desc="江西省财政厅"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1902200001" ecId="1186" desc="江西省财政厅"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8082" productId="1902200001" ecId="1186" desc="江西省财政厅"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="6767" ecId="1186" desc="江西省财政厅"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="6767" ecId="1186" desc="江西省财政厅"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8082" productId="6767" ecId="1186" desc="江西省财政厅"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20220101" ecId="1186" desc="江西省财政厅"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20220101" ecId="1186" desc="江西省财政厅"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8082" productId="20220101" ecId="1186" desc="江西省财政厅"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121102" ecId="1186" desc="江西省财政厅"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121102" ecId="1186" desc="江西省财政厅"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8082" productId="20121102" ecId="1186" desc="江西省财政厅"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1103700001" ecId="1186" desc="江西省财政厅"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1103700001" ecId="1186" desc="江西省财政厅"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8082" productId="1103700001" ecId="1186" desc="江西省财政厅"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121102" ecId="1186" desc="江西省财政厅"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121102" ecId="1186" desc="江西省财政厅"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8083" productId="20121102" ecId="1186" desc="江西省财政厅"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20120629" ecId="1186" desc="江西省财政厅"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20120629" ecId="1186" desc="江西省财政厅"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8083" productId="20120629" ecId="1186" desc="江西省财政厅"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121024" ecId="1186" desc="江西省财政厅"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121024" ecId="1186" desc="江西省财政厅"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8083" productId="20121024" ecId="1186" desc="江西省财政厅"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20220101" ecId="1186" desc="江西省财政厅"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20220101" ecId="1186" desc="江西省财政厅"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8083" productId="20220101" ecId="1186" desc="江西省财政厅"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="6767" ecId="1186" desc="江西省财政厅"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="6767" ecId="1186" desc="江西省财政厅"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8083" productId="6767" ecId="1186" desc="江西省财政厅"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1121700001" ecId="1186" desc="江西省财政厅"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1121700001" ecId="1186" desc="江西省财政厅"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8083" productId="1121700001" ecId="1186" desc="江西省财政厅"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1103700001" ecId="1186" desc="江西省财政厅"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1103700001" ecId="1186" desc="江西省财政厅"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8083" productId="1103700001" ecId="1186" desc="江西省财政厅"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1902200001" ecId="1186" desc="江西省财政厅"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1902200001" ecId="1186" desc="江西省财政厅"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8083" productId="1902200001" ecId="1186" desc="江西省财政厅"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20120629" ecId="1186" desc="上海诗莎"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20120629" ecId="1186" desc="上海诗莎"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8088" productId="20120629" ecId="1186" desc="上海诗莎"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1121700001" ecId="1186" desc="上海诗莎"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1121700001" ecId="1186" desc="上海诗莎"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8088" productId="1121700001" ecId="1186" desc="上海诗莎"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1103700001" ecId="1186" desc="上海诗莎"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1103700001" ecId="1186" desc="上海诗莎"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8088" productId="1103700001" ecId="1186" desc="上海诗莎"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121102" ecId="1186" desc="上海诗莎"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121102" ecId="1186" desc="上海诗莎"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8088" productId="20121102" ecId="1186" desc="上海诗莎"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20220101" ecId="1186" desc="上海诗莎"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20220101" ecId="1186" desc="上海诗莎"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8088" productId="20220101" ecId="1186" desc="上海诗莎"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="6767" ecId="1186" desc="上海诗莎"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="6767" ecId="1186" desc="上海诗莎"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8088" productId="6767" ecId="1186" desc="上海诗莎"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1902200001" ecId="1186" desc="上海诗莎"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1902200001" ecId="1186" desc="上海诗莎"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8088" productId="1902200001" ecId="1186" desc="上海诗莎"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121024" ecId="1186" desc="上海诗莎"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121024" ecId="1186" desc="上海诗莎"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8088" productId="20121024" ecId="1186" desc="上海诗莎"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20120629" ecId="1186" desc="阳光保险"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20120629" ecId="1186" desc="阳光保险"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8089" productId="20120629" ecId="1186" desc="阳光保险"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121102" ecId="1186" desc="阳光保险"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121102" ecId="1186" desc="阳光保险"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8089" productId="20121102" ecId="1186" desc="阳光保险"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1902200001" ecId="1186" desc="阳光保险"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1902200001" ecId="1186" desc="阳光保险"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8089" productId="1902200001" ecId="1186" desc="阳光保险"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1103700001" ecId="1186" desc="阳光保险"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1103700001" ecId="1186" desc="阳光保险"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8089" productId="1103700001" ecId="1186" desc="阳光保险"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1121700001" ecId="1186" desc="阳光保险"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1121700001" ecId="1186" desc="阳光保险"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8089" productId="1121700001" ecId="1186" desc="阳光保险"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20220101" ecId="1186" desc="阳光保险"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20220101" ecId="1186" desc="阳光保险"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8089" productId="20220101" ecId="1186" desc="阳光保险"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="6767" ecId="1186" desc="阳光保险"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="6767" ecId="1186" desc="阳光保险"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8089" productId="6767" ecId="1186" desc="阳光保险"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121024" ecId="1186" desc="阳光保险"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121024" ecId="1186" desc="阳光保险"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8089" productId="20121024" ecId="1186" desc="阳光保险"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121024" ecId="1186" desc="赣州校讯通"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121024" ecId="1186" desc="赣州校讯通"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8090" productId="20121024" ecId="1186" desc="赣州校讯通"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1103700001" ecId="1186" desc="赣州校讯通"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1103700001" ecId="1186" desc="赣州校讯通"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8090" productId="1103700001" ecId="1186" desc="赣州校讯通"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1121700001" ecId="1186" desc="赣州校讯通"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1121700001" ecId="1186" desc="赣州校讯通"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8090" productId="1121700001" ecId="1186" desc="赣州校讯通"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="6767" ecId="1186" desc="赣州校讯通"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="6767" ecId="1186" desc="赣州校讯通"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8090" productId="6767" ecId="1186" desc="赣州校讯通"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20120629" ecId="1186" desc="赣州校讯通"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20120629" ecId="1186" desc="赣州校讯通"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8090" productId="20120629" ecId="1186" desc="赣州校讯通"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121102" ecId="1186" desc="赣州校讯通"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121102" ecId="1186" desc="赣州校讯通"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8090" productId="20121102" ecId="1186" desc="赣州校讯通"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20220101" ecId="1186" desc="赣州校讯通"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20220101" ecId="1186" desc="赣州校讯通"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8090" productId="20220101" ecId="1186" desc="赣州校讯通"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1902200001" ecId="1186" desc="赣州校讯通"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1902200001" ecId="1186" desc="赣州校讯通"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8090" productId="1902200001" ecId="1186" desc="赣州校讯通"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1103700001" ecId="1186" desc="本地测试用"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1103700001" ecId="1186" desc="本地测试用"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8809" productId="1103700001" ecId="1186" desc="本地测试用"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1121700001" ecId="1186" desc="本地测试用"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1121700001" ecId="1186" desc="本地测试用"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8809" productId="1121700001" ecId="1186" desc="本地测试用"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20120629" ecId="1186" desc="本地测试用"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20120629" ecId="1186" desc="本地测试用"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8809" productId="20120629" ecId="1186" desc="本地测试用"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121102" ecId="1186" desc="本地测试用"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121102" ecId="1186" desc="本地测试用"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8809" productId="20121102" ecId="1186" desc="本地测试用"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1902200001" ecId="1186" desc="本地测试用"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1902200001" ecId="1186" desc="本地测试用"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8809" productId="1902200001" ecId="1186" desc="本地测试用"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="6767" ecId="1186" desc="本地测试用"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="6767" ecId="1186" desc="本地测试用"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8809" productId="6767" ecId="1186" desc="本地测试用"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20220101" ecId="1186" desc="本地测试用"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20220101" ecId="1186" desc="本地测试用"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8809" productId="20220101" ecId="1186" desc="本地测试用"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121024" ecId="1186" desc="本地测试用"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121024" ecId="1186" desc="本地测试用"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8809" productId="20121024" ecId="1186" desc="本地测试用"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1103700001" ecId="1186" desc="电讯盈科技术"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1103700001" ecId="1186" desc="电讯盈科技术"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8810" productId="1103700001" ecId="1186" desc="电讯盈科技术"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1121700001" ecId="1186" desc="电讯盈科技术"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1121700001" ecId="1186" desc="电讯盈科技术"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8810" productId="1121700001" ecId="1186" desc="电讯盈科技术"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20120629" ecId="1186" desc="电讯盈科技术"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20120629" ecId="1186" desc="电讯盈科技术"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8810" productId="20120629" ecId="1186" desc="电讯盈科技术"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121102" ecId="1186" desc="电讯盈科技术"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121102" ecId="1186" desc="电讯盈科技术"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8810" productId="20121102" ecId="1186" desc="电讯盈科技术"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1902200001" ecId="1186" desc="电讯盈科技术"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1902200001" ecId="1186" desc="电讯盈科技术"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8810" productId="1902200001" ecId="1186" desc="电讯盈科技术"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="6767" ecId="1186" desc="电讯盈科技术"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="6767" ecId="1186" desc="电讯盈科技术"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8810" productId="6767" ecId="1186" desc="电讯盈科技术"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20220101" ecId="1186" desc="电讯盈科技术"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20220101" ecId="1186" desc="电讯盈科技术"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8810" productId="20220101" ecId="1186" desc="电讯盈科技术"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121024" ecId="1186" desc="电讯盈科技术"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121024" ecId="1186" desc="电讯盈科技术"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8810" productId="20121024" ecId="1186" desc="电讯盈科技术"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1121700001" ecId="1186" desc="阳洋科技"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1121700001" ecId="1186" desc="阳洋科技"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8811" productId="1121700001" ecId="1186" desc="阳洋科技"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20120629" ecId="1186" desc="阳洋科技"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20120629" ecId="1186" desc="阳洋科技"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8811" productId="20120629" ecId="1186" desc="阳洋科技"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121024" ecId="1186" desc="阳洋科技"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121024" ecId="1186" desc="阳洋科技"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8811" productId="20121024" ecId="1186" desc="阳洋科技"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1103700001" ecId="1186" desc="阳洋科技"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1103700001" ecId="1186" desc="阳洋科技"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8811" productId="1103700001" ecId="1186" desc="阳洋科技"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="6767" ecId="1186" desc="阳洋科技"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="6767" ecId="1186" desc="阳洋科技"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8811" productId="6767" ecId="1186" desc="阳洋科技"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20220101" ecId="1186" desc="阳洋科技"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20220101" ecId="1186" desc="阳洋科技"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8811" productId="20220101" ecId="1186" desc="阳洋科技"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121102" ecId="1186" desc="阳洋科技"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121102" ecId="1186" desc="阳洋科技"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8811" productId="20121102" ecId="1186" desc="阳洋科技"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1902200001" ecId="1186" desc="阳洋科技"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1902200001" ecId="1186" desc="阳洋科技"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8811" productId="1902200001" ecId="1186" desc="阳洋科技"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1121700001" ecId="1186" desc="圆通新龙（独享）"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1121700001" ecId="1186" desc="圆通新龙（独享）"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8812" productId="1121700001" ecId="1186" desc="圆通新龙（独享）"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20120629" ecId="1186" desc="圆通新龙（独享）"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20120629" ecId="1186" desc="圆通新龙（独享）"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8812" productId="20120629" ecId="1186" desc="圆通新龙（独享）"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121024" ecId="1186" desc="圆通新龙（独享）"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121024" ecId="1186" desc="圆通新龙（独享）"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8812" productId="20121024" ecId="1186" desc="圆通新龙（独享）"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1103700001" ecId="1186" desc="圆通新龙（独享）"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1103700001" ecId="1186" desc="圆通新龙（独享）"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8812" productId="1103700001" ecId="1186" desc="圆通新龙（独享）"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="6767" ecId="1186" desc="圆通新龙（独享）"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="6767" ecId="1186" desc="圆通新龙（独享）"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8812" productId="6767" ecId="1186" desc="圆通新龙（独享）"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20220101" ecId="1186" desc="圆通新龙（独享）"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20220101" ecId="1186" desc="圆通新龙（独享）"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8812" productId="20220101" ecId="1186" desc="圆通新龙（独享）"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121102" ecId="1186" desc="圆通新龙（独享）"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121102" ecId="1186" desc="圆通新龙（独享）"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8812" productId="20121102" ecId="1186" desc="圆通新龙（独享）"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1902200001" ecId="1186" desc="圆通新龙（独享）"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1902200001" ecId="1186" desc="圆通新龙（独享）"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8812" productId="1902200001" ecId="1186" desc="圆通新龙（独享）"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1103700001" ecId="1186" desc="千年舟"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1103700001" ecId="1186" desc="千年舟"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8813" productId="1103700001" ecId="1186" desc="千年舟"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1121700001" ecId="1186" desc="千年舟"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1121700001" ecId="1186" desc="千年舟"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8813" productId="1121700001" ecId="1186" desc="千年舟"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20120629" ecId="1186" desc="千年舟"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20120629" ecId="1186" desc="千年舟"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8813" productId="20120629" ecId="1186" desc="千年舟"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121102" ecId="1186" desc="千年舟"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121102" ecId="1186" desc="千年舟"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8813" productId="20121102" ecId="1186" desc="千年舟"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1902200001" ecId="1186" desc="千年舟"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1902200001" ecId="1186" desc="千年舟"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8813" productId="1902200001" ecId="1186" desc="千年舟"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="6767" ecId="1186" desc="千年舟"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="6767" ecId="1186" desc="千年舟"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8813" productId="6767" ecId="1186" desc="千年舟"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20220101" ecId="1186" desc="千年舟"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20220101" ecId="1186" desc="千年舟"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8813" productId="20220101" ecId="1186" desc="千年舟"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121024" ecId="1186" desc="千年舟"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121024" ecId="1186" desc="千年舟"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8813" productId="20121024" ecId="1186" desc="千年舟"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1121700001" ecId="1186" desc="东方香港"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1121700001" ecId="1186" desc="东方香港"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8814" productId="1121700001" ecId="1186" desc="东方香港"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20120629" ecId="1186" desc="东方香港"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20120629" ecId="1186" desc="东方香港"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8814" productId="20120629" ecId="1186" desc="东方香港"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121024" ecId="1186" desc="东方香港"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121024" ecId="1186" desc="东方香港"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8814" productId="20121024" ecId="1186" desc="东方香港"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1103700001" ecId="1186" desc="东方香港"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1103700001" ecId="1186" desc="东方香港"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8814" productId="1103700001" ecId="1186" desc="东方香港"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="6767" ecId="1186" desc="东方香港"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="6767" ecId="1186" desc="东方香港"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8814" productId="6767" ecId="1186" desc="东方香港"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20220101" ecId="1186" desc="东方香港"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20220101" ecId="1186" desc="东方香港"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8814" productId="20220101" ecId="1186" desc="东方香港"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121102" ecId="1186" desc="东方香港"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121102" ecId="1186" desc="东方香港"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8814" productId="20121102" ecId="1186" desc="东方香港"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1902200001" ecId="1186" desc="东方香港"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1902200001" ecId="1186" desc="东方香港"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8814" productId="1902200001" ecId="1186" desc="东方香港"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1103700001" ecId="1186" desc="北京测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1103700001" ecId="1186" desc="北京测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8820" productId="1103700001" ecId="1186" desc="北京测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1121700001" ecId="1186" desc="北京测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1121700001" ecId="1186" desc="北京测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8820" productId="1121700001" ecId="1186" desc="北京测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20120629" ecId="1186" desc="北京测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20120629" ecId="1186" desc="北京测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8820" productId="20120629" ecId="1186" desc="北京测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121102" ecId="1186" desc="北京测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121102" ecId="1186" desc="北京测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8820" productId="20121102" ecId="1186" desc="北京测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1902200001" ecId="1186" desc="北京测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1902200001" ecId="1186" desc="北京测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8820" productId="1902200001" ecId="1186" desc="北京测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="6767" ecId="1186" desc="北京测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="6767" ecId="1186" desc="北京测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8820" productId="6767" ecId="1186" desc="北京测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20220101" ecId="1186" desc="北京测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20220101" ecId="1186" desc="北京测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8820" productId="20220101" ecId="1186" desc="北京测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121024" ecId="1186" desc="北京测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121024" ecId="1186" desc="北京测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8820" productId="20121024" ecId="1186" desc="北京测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1103700001" ecId="1186" desc="测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1103700001" ecId="1186" desc="测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8888" productId="1103700001" ecId="1186" desc="测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1121700001" ecId="1186" desc="测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1121700001" ecId="1186" desc="测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8888" productId="1121700001" ecId="1186" desc="测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20120629" ecId="1186" desc="测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20120629" ecId="1186" desc="测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8888" productId="20120629" ecId="1186" desc="测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121102" ecId="1186" desc="测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121102" ecId="1186" desc="测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8888" productId="20121102" ecId="1186" desc="测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1902200001" ecId="1186" desc="测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1902200001" ecId="1186" desc="测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8888" productId="1902200001" ecId="1186" desc="测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="6767" ecId="1186" desc="测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="6767" ecId="1186" desc="测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8888" productId="6767" ecId="1186" desc="测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20220101" ecId="1186" desc="测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20220101" ecId="1186" desc="测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8888" productId="20220101" ecId="1186" desc="测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121024" ecId="1186" desc="测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121024" ecId="1186" desc="测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8888" productId="20121024" ecId="1186" desc="测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1103700001" ecId="1186" desc="天利测试_xl"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1103700001" ecId="1186" desc="天利测试_xl"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8889" productId="1103700001" ecId="1186" desc="天利测试_xl"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1121700001" ecId="1186" desc="天利测试_xl"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1121700001" ecId="1186" desc="天利测试_xl"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8889" productId="1121700001" ecId="1186" desc="天利测试_xl"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20120629" ecId="1186" desc="天利测试_xl"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20120629" ecId="1186" desc="天利测试_xl"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8889" productId="20120629" ecId="1186" desc="天利测试_xl"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121102" ecId="1186" desc="天利测试_xl"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121102" ecId="1186" desc="天利测试_xl"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8889" productId="20121102" ecId="1186" desc="天利测试_xl"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1902200001" ecId="1186" desc="天利测试_xl"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1902200001" ecId="1186" desc="天利测试_xl"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8889" productId="1902200001" ecId="1186" desc="天利测试_xl"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="6767" ecId="1186" desc="天利测试_xl"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="6767" ecId="1186" desc="天利测试_xl"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8889" productId="6767" ecId="1186" desc="天利测试_xl"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20220101" ecId="1186" desc="天利测试_xl"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20220101" ecId="1186" desc="天利测试_xl"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8889" productId="20220101" ecId="1186" desc="天利测试_xl"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121024" ecId="1186" desc="天利测试_xl"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121024" ecId="1186" desc="天利测试_xl"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8889" productId="20121024" ecId="1186" desc="天利测试_xl"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1103700001" ecId="1186" desc="上饶银行测试接口"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1103700001" ecId="1186" desc="上饶银行测试接口"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8890" productId="1103700001" ecId="1186" desc="上饶银行测试接口"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1121700001" ecId="1186" desc="上饶银行测试接口"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1121700001" ecId="1186" desc="上饶银行测试接口"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8890" productId="1121700001" ecId="1186" desc="上饶银行测试接口"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20120629" ecId="1186" desc="上饶银行测试接口"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20120629" ecId="1186" desc="上饶银行测试接口"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8890" productId="20120629" ecId="1186" desc="上饶银行测试接口"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121024" ecId="1186" desc="上饶银行测试接口"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121024" ecId="1186" desc="上饶银行测试接口"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8890" productId="20121024" ecId="1186" desc="上饶银行测试接口"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1902200001" ecId="1186" desc="上饶银行测试接口"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1902200001" ecId="1186" desc="上饶银行测试接口"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8890" productId="1902200001" ecId="1186" desc="上饶银行测试接口"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="6767" ecId="1186" desc="上饶银行测试接口"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="6767" ecId="1186" desc="上饶银行测试接口"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8890" productId="6767" ecId="1186" desc="上饶银行测试接口"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20220101" ecId="1186" desc="上饶银行测试接口"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20220101" ecId="1186" desc="上饶银行测试接口"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8890" productId="20220101" ecId="1186" desc="上饶银行测试接口"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121102" ecId="1186" desc="上饶银行测试接口"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121102" ecId="1186" desc="上饶银行测试接口"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8890" productId="20121102" ecId="1186" desc="上饶银行测试接口"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1121700001" ecId="1186" desc="mcafee"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1121700001" ecId="1186" desc="mcafee"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8891" productId="1121700001" ecId="1186" desc="mcafee"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121102" ecId="1186" desc="mcafee"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121102" ecId="1186" desc="mcafee"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8891" productId="20121102" ecId="1186" desc="mcafee"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20220101" ecId="1186" desc="mcafee"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20220101" ecId="1186" desc="mcafee"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8891" productId="20220101" ecId="1186" desc="mcafee"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="6767" ecId="1186" desc="mcafee"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="6767" ecId="1186" desc="mcafee"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8891" productId="6767" ecId="1186" desc="mcafee"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1902200001" ecId="1186" desc="mcafee"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1902200001" ecId="1186" desc="mcafee"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8891" productId="1902200001" ecId="1186" desc="mcafee"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121024" ecId="1186" desc="mcafee"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121024" ecId="1186" desc="mcafee"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8891" productId="20121024" ecId="1186" desc="mcafee"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20120629" ecId="1186" desc="mcafee"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20120629" ecId="1186" desc="mcafee"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8891" productId="20120629" ecId="1186" desc="mcafee"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1103700001" ecId="1186" desc="mcafee"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1103700001" ecId="1186" desc="mcafee"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8891" productId="1103700001" ecId="1186" desc="mcafee"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121102" ecId="1186" desc="华兴软通"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121102" ecId="1186" desc="华兴软通"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8892" productId="20121102" ecId="1186" desc="华兴软通"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121024" ecId="1186" desc="华兴软通"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121024" ecId="1186" desc="华兴软通"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8892" productId="20121024" ecId="1186" desc="华兴软通"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="6767" ecId="1186" desc="华兴软通"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="6767" ecId="1186" desc="华兴软通"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8892" productId="6767" ecId="1186" desc="华兴软通"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20120629" ecId="1186" desc="华兴软通"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20120629" ecId="1186" desc="华兴软通"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8892" productId="20120629" ecId="1186" desc="华兴软通"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20220101" ecId="1186" desc="华兴软通"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20220101" ecId="1186" desc="华兴软通"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8892" productId="20220101" ecId="1186" desc="华兴软通"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1121700001" ecId="1186" desc="华兴软通"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1121700001" ecId="1186" desc="华兴软通"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8892" productId="1121700001" ecId="1186" desc="华兴软通"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1902200001" ecId="1186" desc="华兴软通"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1902200001" ecId="1186" desc="华兴软通"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8892" productId="1902200001" ecId="1186" desc="华兴软通"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1103700001" ecId="1186" desc="华兴软通"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1103700001" ecId="1186" desc="华兴软通"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="8892" productId="1103700001" ecId="1186" desc="华兴软通"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1902200001" ecId="1186" desc="上海测试专用"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1902200001" ecId="1186" desc="上海测试专用"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="9001" productId="1902200001" ecId="1186" desc="上海测试专用"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1103700001" ecId="1186" desc="上海测试专用"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1103700001" ecId="1186" desc="上海测试专用"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="9001" productId="1103700001" ecId="1186" desc="上海测试专用"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121102" ecId="1186" desc="上海测试专用"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121102" ecId="1186" desc="上海测试专用"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="9001" productId="20121102" ecId="1186" desc="上海测试专用"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1121700001" ecId="1186" desc="上海测试专用"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1121700001" ecId="1186" desc="上海测试专用"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="9001" productId="1121700001" ecId="1186" desc="上海测试专用"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121024" ecId="1186" desc="上海测试专用"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121024" ecId="1186" desc="上海测试专用"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="9001" productId="20121024" ecId="1186" desc="上海测试专用"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20120629" ecId="1186" desc="上海测试专用"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20120629" ecId="1186" desc="上海测试专用"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="9001" productId="20120629" ecId="1186" desc="上海测试专用"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20220101" ecId="1186" desc="上海测试专用"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20220101" ecId="1186" desc="上海测试专用"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="9001" productId="20220101" ecId="1186" desc="上海测试专用"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="6767" ecId="1186" desc="上海测试专用"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="6767" ecId="1186" desc="上海测试专用"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="9001" productId="6767" ecId="1186" desc="上海测试专用"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1902200001" ecId="1186" desc="上海测试专用CBIP2.0"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1902200001" ecId="1186" desc="上海测试专用CBIP2.0"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="9002" productId="1902200001" ecId="1186" desc="上海测试专用CBIP2.0"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121024" ecId="1186" desc="上海测试专用CBIP2.0"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121024" ecId="1186" desc="上海测试专用CBIP2.0"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="9002" productId="20121024" ecId="1186" desc="上海测试专用CBIP2.0"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121102" ecId="1186" desc="上海测试专用CBIP2.0"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121102" ecId="1186" desc="上海测试专用CBIP2.0"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="9002" productId="20121102" ecId="1186" desc="上海测试专用CBIP2.0"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20120629" ecId="1186" desc="上海测试专用CBIP2.0"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20120629" ecId="1186" desc="上海测试专用CBIP2.0"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="9002" productId="20120629" ecId="1186" desc="上海测试专用CBIP2.0"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1121700001" ecId="1186" desc="上海测试专用CBIP2.0"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1121700001" ecId="1186" desc="上海测试专用CBIP2.0"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="9002" productId="1121700001" ecId="1186" desc="上海测试专用CBIP2.0"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1103700001" ecId="1186" desc="上海测试专用CBIP2.0"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1103700001" ecId="1186" desc="上海测试专用CBIP2.0"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="9002" productId="1103700001" ecId="1186" desc="上海测试专用CBIP2.0"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20220101" ecId="1186" desc="上海测试专用CBIP2.0"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20220101" ecId="1186" desc="上海测试专用CBIP2.0"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="9002" productId="20220101" ecId="1186" desc="上海测试专用CBIP2.0"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="6767" ecId="1186" desc="上海测试专用CBIP2.0"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="6767" ecId="1186" desc="上海测试专用CBIP2.0"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="9002" productId="6767" ecId="1186" desc="上海测试专用CBIP2.0"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1121700001" ecId="1186" desc="上海测试用"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1121700001" ecId="1186" desc="上海测试用"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="9003" productId="1121700001" ecId="1186" desc="上海测试用"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1103700001" ecId="1186" desc="上海测试用"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1103700001" ecId="1186" desc="上海测试用"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="9003" productId="1103700001" ecId="1186" desc="上海测试用"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20120629" ecId="1186" desc="上海测试用"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20120629" ecId="1186" desc="上海测试用"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="9003" productId="20120629" ecId="1186" desc="上海测试用"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1902200001" ecId="1186" desc="上海测试用"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1902200001" ecId="1186" desc="上海测试用"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="9003" productId="1902200001" ecId="1186" desc="上海测试用"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="6767" ecId="1186" desc="上海测试用"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="6767" ecId="1186" desc="上海测试用"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="9003" productId="6767" ecId="1186" desc="上海测试用"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121102" ecId="1186" desc="上海测试用"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121102" ecId="1186" desc="上海测试用"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="9003" productId="20121102" ecId="1186" desc="上海测试用"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20220101" ecId="1186" desc="上海测试用"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20220101" ecId="1186" desc="上海测试用"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="9003" productId="20220101" ecId="1186" desc="上海测试用"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121024" ecId="1186" desc="上海测试用"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121024" ecId="1186" desc="上海测试用"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="9003" productId="20121024" ecId="1186" desc="上海测试用"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20120820" ecId="1227" desc="深圳测试"> 
+    <property name="state">true</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20120820" ecId="1227" desc="深圳测试"> 
+    <property name="state">true</property> 
+  </ecVerify>  
+  <ecVerify clientId="9011" productId="20120820" ecId="1227" desc="深圳测试"> 
+    <property name="state">true</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1103700001" ecId="1186" desc="csa测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1103700001" ecId="1186" desc="csa测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="9022" productId="1103700001" ecId="1186" desc="csa测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121024" ecId="1186" desc="csa测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121024" ecId="1186" desc="csa测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="9022" productId="20121024" ecId="1186" desc="csa测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121102" ecId="1186" desc="csa测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121102" ecId="1186" desc="csa测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="9022" productId="20121102" ecId="1186" desc="csa测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20220101" ecId="1186" desc="csa测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20220101" ecId="1186" desc="csa测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="9022" productId="20220101" ecId="1186" desc="csa测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="6767" ecId="1186" desc="csa测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="6767" ecId="1186" desc="csa测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="9022" productId="6767" ecId="1186" desc="csa测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1902200001" ecId="1186" desc="csa测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1902200001" ecId="1186" desc="csa测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="9022" productId="1902200001" ecId="1186" desc="csa测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20120629" ecId="1186" desc="csa测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20120629" ecId="1186" desc="csa测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="9022" productId="20120629" ecId="1186" desc="csa测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1121700001" ecId="1186" desc="csa测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1121700001" ecId="1186" desc="csa测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="9022" productId="1121700001" ecId="1186" desc="csa测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121102" ecId="1186" desc="江西风尚购物"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121102" ecId="1186" desc="江西风尚购物"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="9023" productId="20121102" ecId="1186" desc="江西风尚购物"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="6767" ecId="1186" desc="江西风尚购物"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="6767" ecId="1186" desc="江西风尚购物"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="9023" productId="6767" ecId="1186" desc="江西风尚购物"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1902200001" ecId="1186" desc="江西风尚购物"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1902200001" ecId="1186" desc="江西风尚购物"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="9023" productId="1902200001" ecId="1186" desc="江西风尚购物"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20220101" ecId="1186" desc="江西风尚购物"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20220101" ecId="1186" desc="江西风尚购物"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="9023" productId="20220101" ecId="1186" desc="江西风尚购物"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121024" ecId="1186" desc="江西风尚购物"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121024" ecId="1186" desc="江西风尚购物"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="9023" productId="20121024" ecId="1186" desc="江西风尚购物"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1103700001" ecId="1186" desc="江西风尚购物"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1103700001" ecId="1186" desc="江西风尚购物"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="9023" productId="1103700001" ecId="1186" desc="江西风尚购物"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20120629" ecId="1186" desc="江西风尚购物"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20120629" ecId="1186" desc="江西风尚购物"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="9023" productId="20120629" ecId="1186" desc="江西风尚购物"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1121700001" ecId="1186" desc="江西风尚购物"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1121700001" ecId="1186" desc="江西风尚购物"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="9023" productId="1121700001" ecId="1186" desc="江西风尚购物"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20120820" ecId="1227" desc="财通彩信"> 
+    <property name="state">true</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20120820" ecId="1227" desc="财通彩信"> 
+    <property name="state">true</property> 
+  </ecVerify>  
+  <ecVerify clientId="9024" productId="20120820" ecId="1227" desc="财通彩信"> 
+    <property name="state">true</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20120820" ecId="1227" desc="9025"> 
+    <property name="state">true</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20120820" ecId="1227" desc="9025"> 
+    <property name="state">true</property> 
+  </ecVerify>  
+  <ecVerify clientId="9025" productId="20120820" ecId="1227" desc="9025"> 
+    <property name="state">true</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20120820" ecId="1227" desc="贝天通讯"> 
+    <property name="state">true</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20120820" ecId="1227" desc="贝天通讯"> 
+    <property name="state">true</property> 
+  </ecVerify>  
+  <ecVerify clientId="9026" productId="20120820" ecId="1227" desc="贝天通讯"> 
+    <property name="state">true</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20120820" ecId="1227" desc="9030"> 
+    <property name="state">true</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20120820" ecId="1227" desc="9030"> 
+    <property name="state">true</property> 
+  </ecVerify>  
+  <ecVerify clientId="9030" productId="20120820" ecId="1227" desc="9030"> 
+    <property name="state">true</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20120820" ecId="1227" desc="南方基金"> 
+    <property name="state">true</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20120820" ecId="1227" desc="南方基金"> 
+    <property name="state">true</property> 
+  </ecVerify>  
+  <ecVerify clientId="9031" productId="20120820" ecId="1227" desc="南方基金"> 
+    <property name="state">true</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20120820" ecId="1227" desc="邬红玲测试"> 
+    <property name="state">true</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20120820" ecId="1227" desc="邬红玲测试"> 
+    <property name="state">true</property> 
+  </ecVerify>  
+  <ecVerify clientId="9032" productId="20120820" ecId="1227" desc="邬红玲测试"> 
+    <property name="state">true</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20120820" ecId="1227" desc="邬红玲测试1"> 
+    <property name="state">true</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20120820" ecId="1227" desc="邬红玲测试1"> 
+    <property name="state">true</property> 
+  </ecVerify>  
+  <ecVerify clientId="9033" productId="20120820" ecId="1227" desc="邬红玲测试1"> 
+    <property name="state">true</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121024" ecId="1186" desc="江西测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121024" ecId="1186" desc="江西测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="9900" productId="20121024" ecId="1186" desc="江西测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1902200001" ecId="1186" desc="江西测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1902200001" ecId="1186" desc="江西测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="9900" productId="1902200001" ecId="1186" desc="江西测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="6767" ecId="1186" desc="江西测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="6767" ecId="1186" desc="江西测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="9900" productId="6767" ecId="1186" desc="江西测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20220101" ecId="1186" desc="江西测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20220101" ecId="1186" desc="江西测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="9900" productId="20220101" ecId="1186" desc="江西测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20121102" ecId="1186" desc="江西测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20121102" ecId="1186" desc="江西测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="9900" productId="20121102" ecId="1186" desc="江西测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1103700001" ecId="1186" desc="江西测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1103700001" ecId="1186" desc="江西测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="9900" productId="1103700001" ecId="1186" desc="江西测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="1121700001" ecId="1186" desc="江西测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="1121700001" ecId="1186" desc="江西测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="9900" productId="1121700001" ecId="1186" desc="江西测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="0" productId="20120629" ecId="1186" desc="江西测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="1" productId="20120629" ecId="1186" desc="江西测试"> 
+    <property name="state">false</property> 
+  </ecVerify>  
+  <ecVerify clientId="9900" productId="20120629" ecId="1186" desc="江西测试"> 
+    <property name="state">false</property> 
+  </ecVerify> 
+</ecVerifys>

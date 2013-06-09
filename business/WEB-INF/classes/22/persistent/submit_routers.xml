@@ -1,0 +1,1003 @@
+<?xml version="1.0" encoding="GBK"?>
+
+<submitRouters> 
+  <sidRouter serviceId="1563"> 
+    <baseStrategy> 
+      <gatewayId>2701</gatewayId>  
+      <gatewayType>1</gatewayType>  
+      <moduleId>2701</moduleId>  
+      <svcId>1563</svcId>  
+      <serviceCode>1069</serviceCode>  
+      <feeValue>1</feeValue>  
+      <feeType>1</feeType>  
+      <longCode/> 
+    </baseStrategy> 
+  </sidRouter>  
+  <sidRouter serviceId="1559"> 
+    <baseStrategy> 
+      <gatewayId>2730</gatewayId>  
+      <gatewayType>1</gatewayType>  
+      <moduleId>2730</moduleId>  
+      <svcId>1559</svcId>  
+      <serviceCode>000001</serviceCode>  
+      <feeValue>1</feeValue>  
+      <feeType>1</feeType>  
+      <longCode/> 
+    </baseStrategy> 
+  </sidRouter>  
+  <sidRouter serviceId="1547"> 
+    <baseStrategy> 
+      <gatewayId>2801</gatewayId>  
+      <gatewayType>5</gatewayType>  
+      <moduleId>2801</moduleId>  
+      <svcId>1547</svcId>  
+      <serviceCode>1098</serviceCode>  
+      <feeValue>0</feeValue>  
+      <feeType>1</feeType>  
+      <longCode/> 
+    </baseStrategy> 
+  </sidRouter>  
+  <sidRouter serviceId="1556"> 
+    <baseStrategy> 
+      <gatewayId>2802</gatewayId>  
+      <gatewayType>5</gatewayType>  
+      <moduleId>2802</moduleId>  
+      <svcId>1556</svcId>  
+      <serviceCode>9888</serviceCode>  
+      <feeValue>0</feeValue>  
+      <feeType>1</feeType>  
+      <longCode/> 
+    </baseStrategy> 
+  </sidRouter>  
+  <sidRouter serviceId="1542"> 
+    <baseStrategy> 
+      <gatewayId>1</gatewayId>  
+      <gatewayType>1</gatewayType>  
+      <moduleId>2401</moduleId>  
+      <svcId>1542</svcId>  
+      <serviceCode>000001</serviceCode>  
+      <feeValue>0</feeValue>  
+      <feeType>1</feeType>  
+      <longCode/> 
+    </baseStrategy> 
+  </sidRouter>  
+  <sidRouter serviceId="1596"> 
+    <baseStrategy> 
+      <gatewayId>5</gatewayId>  
+      <gatewayType>1</gatewayType>  
+      <moduleId>2405</moduleId>  
+      <svcId>1596</svcId>  
+      <serviceCode>1104100001</serviceCode>  
+      <feeValue>1</feeValue>  
+      <feeType>1</feeType>  
+      <longCode/> 
+    </baseStrategy> 
+  </sidRouter>  
+  <sidRouter serviceId="1598"> 
+    <baseStrategy> 
+      <gatewayId>17</gatewayId>  
+      <gatewayType>3</gatewayType>  
+      <moduleId>2417</moduleId>  
+      <svcId>1598</svcId>  
+      <serviceCode>923</serviceCode>  
+      <feeValue>1</feeValue>  
+      <feeType>1</feeType>  
+      <longCode/> 
+    </baseStrategy> 
+  </sidRouter>  
+  <sidRouter serviceId="1637"> 
+    <baseStrategy> 
+      <gatewayId>18</gatewayId>  
+      <gatewayType>3</gatewayType>  
+      <moduleId>2418</moduleId>  
+      <svcId>1637</svcId>  
+      <serviceCode>20000</serviceCode>  
+      <feeValue>1</feeValue>  
+      <feeType>1</feeType>  
+      <longCode/> 
+    </baseStrategy> 
+  </sidRouter>  
+  <sidRouter serviceId="1597"> 
+    <baseStrategy> 
+      <gatewayId>56</gatewayId>  
+      <gatewayType>4</gatewayType>  
+      <moduleId>2456</moduleId>  
+      <svcId>1597</svcId>  
+      <serviceCode>932</serviceCode>  
+      <feeValue>1</feeValue>  
+      <feeType>1</feeType>  
+      <longCode/> 
+    </baseStrategy> 
+  </sidRouter>  
+  <sidRouter serviceId="1636"> 
+    <baseStrategy> 
+      <gatewayId>57</gatewayId>  
+      <gatewayType>4</gatewayType>  
+      <moduleId>2457</moduleId>  
+      <svcId>1636</svcId>  
+      <serviceCode>100000</serviceCode>  
+      <feeValue>1</feeValue>  
+      <feeType>1</feeType>  
+      <longCode/> 
+    </baseStrategy> 
+  </sidRouter>  
+  <sidRouter serviceId="1560"> 
+    <baseStrategy> 
+      <gatewayId>2630</gatewayId>  
+      <gatewayType>1</gatewayType>  
+      <moduleId>2630</moduleId>  
+      <svcId>1560</svcId>  
+      <serviceCode>000001</serviceCode>  
+      <feeValue>1</feeValue>  
+      <feeType>1</feeType>  
+      <longCode/> 
+    </baseStrategy> 
+  </sidRouter>  
+  <sidRouter serviceId="1616"> 
+    <baseStrategy> 
+      <gatewayId>2656</gatewayId>  
+      <gatewayType>2</gatewayType>  
+      <moduleId>2656</moduleId>  
+      <svcId>1616</svcId>  
+      <serviceCode>2656</serviceCode>  
+      <feeValue>1</feeValue>  
+      <feeType>1</feeType>  
+      <longCode/> 
+    </baseStrategy> 
+  </sidRouter>  
+  <sidRouter serviceId="1546"> 
+    <baseStrategy> 
+      <gatewayId>3611</gatewayId>  
+      <gatewayType>3</gatewayType>  
+      <moduleId>3611</moduleId>  
+      <svcId>1546</svcId>  
+      <serviceCode>00004</serviceCode>  
+      <feeValue>0</feeValue>  
+      <feeType>1</feeType>  
+      <longCode/> 
+    </baseStrategy> 
+  </sidRouter>  
+  <sidRouter serviceId="1540"> 
+    <baseStrategy> 
+      <gatewayId>3514</gatewayId>  
+      <gatewayType>1</gatewayType>  
+      <moduleId>3514</moduleId>  
+      <svcId>1540</svcId>  
+      <serviceCode>000001</serviceCode>  
+      <feeValue>0</feeValue>  
+      <feeType>1</feeType>  
+      <longCode/> 
+    </baseStrategy> 
+  </sidRouter>  
+  <sidRouter serviceId="1576"> 
+    <baseStrategy> 
+      <gatewayId>3515</gatewayId>  
+      <gatewayType>1</gatewayType>  
+      <moduleId>3515</moduleId>  
+      <svcId>1576</svcId>  
+      <serviceCode>322</serviceCode>  
+      <feeValue>1</feeValue>  
+      <feeType>1</feeType>  
+      <longCode/> 
+    </baseStrategy> 
+  </sidRouter>  
+  <sidRouter serviceId="1564"> 
+    <baseStrategy> 
+      <gatewayId>3516</gatewayId>  
+      <gatewayType>1</gatewayType>  
+      <moduleId>3516</moduleId>  
+      <svcId>1564</svcId>  
+      <serviceCode>000001</serviceCode>  
+      <feeValue>1</feeValue>  
+      <feeType>1</feeType>  
+      <longCode/> 
+    </baseStrategy> 
+  </sidRouter>  
+  <sidRouter serviceId="1545"> 
+    <baseStrategy> 
+      <gatewayId>3518</gatewayId>  
+      <gatewayType>1</gatewayType>  
+      <moduleId>3518</moduleId>  
+      <svcId>1545</svcId>  
+      <serviceCode>20120629</serviceCode>  
+      <feeValue>0</feeValue>  
+      <feeType>1</feeType>  
+      <longCode/> 
+    </baseStrategy> 
+  </sidRouter>  
+  <sidRouter serviceId="1539"> 
+    <baseStrategy> 
+      <gatewayId>3520</gatewayId>  
+      <gatewayType>1</gatewayType>  
+      <moduleId>3520</moduleId>  
+      <svcId>1539</svcId>  
+      <serviceCode>20120626</serviceCode>  
+      <feeValue>0</feeValue>  
+      <feeType>1</feeType>  
+      <longCode/> 
+    </baseStrategy> 
+  </sidRouter>  
+  <sidRouter serviceId="1543"> 
+    <baseStrategy> 
+      <gatewayId>3529</gatewayId>  
+      <gatewayType>4</gatewayType>  
+      <moduleId>3529</moduleId>  
+      <svcId>1543</svcId>  
+      <serviceCode>20120628</serviceCode>  
+      <feeValue>0</feeValue>  
+      <feeType>1</feeType>  
+      <longCode/> 
+    </baseStrategy> 
+  </sidRouter>  
+  <sidRouter serviceId="1541"> 
+    <baseStrategy> 
+      <gatewayId>3540</gatewayId>  
+      <gatewayType>3</gatewayType>  
+      <moduleId>3540</moduleId>  
+      <svcId>1541</svcId>  
+      <serviceCode>20120627</serviceCode>  
+      <feeValue>0</feeValue>  
+      <feeType>1</feeType>  
+      <longCode/> 
+    </baseStrategy> 
+  </sidRouter>  
+  <sidRouter serviceId="1558"> 
+    <baseStrategy> 
+      <gatewayId>2864</gatewayId>  
+      <gatewayType>5</gatewayType>  
+      <moduleId>2864</moduleId>  
+      <svcId>1558</svcId>  
+      <serviceCode>00201058</serviceCode>  
+      <feeValue>0</feeValue>  
+      <feeType>1</feeType>  
+      <longCode/> 
+    </baseStrategy> 
+  </sidRouter>  
+  <sidRouter serviceId="1561"> 
+    <baseStrategy> 
+      <gatewayId>2865</gatewayId>  
+      <gatewayType>5</gatewayType>  
+      <moduleId>2865</moduleId>  
+      <svcId>1561</svcId>  
+      <serviceCode>000</serviceCode>  
+      <feeValue>1</feeValue>  
+      <feeType>0</feeType>  
+      <longCode/> 
+    </baseStrategy> 
+  </sidRouter>  
+  <!-- 基本策略 -->  
+  <submitRouter productId="2401" operatorId="1" provinceId="1" strategyType="1" subcodeFlag="1" filterLevel="0"> 
+    <baseStrategy> 
+      <!-- 网关ID。 -->  
+      <gatewayId>3520</gatewayId>  
+      <!-- 网关类型。 -->  
+      <gatewayType>1</gatewayType>  
+      <!-- 模块ID。 -->  
+      <moduleId>3520</moduleId>  
+      <!-- 通道ID。 -->  
+      <svcId>1539</svcId>  
+      <!-- 通道代码。 -->  
+      <serviceCode>20120626</serviceCode>  
+      <!-- 计费标准。 -->  
+      <feeValue>0</feeValue>  
+      <!-- 计费标准。 -->  
+      <feeType>1</feeType>  
+      <!-- 长号码。 -->  
+      <longCode/> 
+    </baseStrategy> 
+  </submitRouter>  
+  <!-- 基本策略 -->  
+  <submitRouter productId="3501" operatorId="1" provinceId="1" strategyType="1" subcodeFlag="1" filterLevel="0"> 
+    <baseStrategy> 
+      <!-- 网关ID。 -->  
+      <gatewayId>3514</gatewayId>  
+      <!-- 网关类型。 -->  
+      <gatewayType>1</gatewayType>  
+      <!-- 模块ID。 -->  
+      <moduleId>3514</moduleId>  
+      <!-- 通道ID。 -->  
+      <svcId>1540</svcId>  
+      <!-- 通道代码。 -->  
+      <serviceCode>000001</serviceCode>  
+      <!-- 计费标准。 -->  
+      <feeValue>0</feeValue>  
+      <!-- 计费标准。 -->  
+      <feeType>1</feeType>  
+      <!-- 长号码。 -->  
+      <longCode/> 
+    </baseStrategy> 
+  </submitRouter>  
+  <!-- 基本策略 -->  
+  <submitRouter productId="3601" operatorId="3" provinceId="1" strategyType="1" subcodeFlag="1" filterLevel="0"> 
+    <baseStrategy> 
+      <!-- 网关ID。 -->  
+      <gatewayId>3611</gatewayId>  
+      <!-- 网关类型。 -->  
+      <gatewayType>1</gatewayType>  
+      <!-- 模块ID。 -->  
+      <moduleId>3611</moduleId>  
+      <!-- 通道ID。 -->  
+      <svcId>1546</svcId>  
+      <!-- 通道代码。 -->  
+      <serviceCode>00004</serviceCode>  
+      <!-- 计费标准。 -->  
+      <feeValue>0</feeValue>  
+      <!-- 计费标准。 -->  
+      <feeType>1</feeType>  
+      <!-- 长号码。 -->  
+      <longCode/> 
+    </baseStrategy> 
+  </submitRouter>  
+  <!-- 基本策略 -->  
+  <submitRouter productId="20120701" operatorId="1" provinceId="1" strategyType="1" subcodeFlag="1" filterLevel="0"> 
+    <baseStrategy> 
+      <!-- 网关ID。 -->  
+      <gatewayId>3520</gatewayId>  
+      <!-- 网关类型。 -->  
+      <gatewayType>1</gatewayType>  
+      <!-- 模块ID。 -->  
+      <moduleId>3520</moduleId>  
+      <!-- 通道ID。 -->  
+      <svcId>1539</svcId>  
+      <!-- 通道代码。 -->  
+      <serviceCode>20120626</serviceCode>  
+      <!-- 计费标准。 -->  
+      <feeValue>0</feeValue>  
+      <!-- 计费标准。 -->  
+      <feeType>1</feeType>  
+      <!-- 长号码。 -->  
+      <longCode/> 
+    </baseStrategy> 
+  </submitRouter>  
+  <!-- 基本策略 -->  
+  <submitRouter productId="20120702" operatorId="1" provinceId="1" strategyType="1" subcodeFlag="1" filterLevel="0"> 
+    <baseStrategy> 
+      <!-- 网关ID。 -->  
+      <gatewayId>3520</gatewayId>  
+      <!-- 网关类型。 -->  
+      <gatewayType>1</gatewayType>  
+      <!-- 模块ID。 -->  
+      <moduleId>3520</moduleId>  
+      <!-- 通道ID。 -->  
+      <svcId>1539</svcId>  
+      <!-- 通道代码。 -->  
+      <serviceCode>20120626</serviceCode>  
+      <!-- 计费标准。 -->  
+      <feeValue>0</feeValue>  
+      <!-- 计费标准。 -->  
+      <feeType>1</feeType>  
+      <!-- 长号码。 -->  
+      <longCode/> 
+    </baseStrategy> 
+  </submitRouter>  
+  <!-- 基本策略 -->  
+  <submitRouter productId="2100" operatorId="1" provinceId="1" strategyType="1" subcodeFlag="1" filterLevel="0"> 
+    <baseStrategy> 
+      <!-- 网关ID。 -->  
+      <gatewayId>3520</gatewayId>  
+      <!-- 网关类型。 -->  
+      <gatewayType>1</gatewayType>  
+      <!-- 模块ID。 -->  
+      <moduleId>3520</moduleId>  
+      <!-- 通道ID。 -->  
+      <svcId>1539</svcId>  
+      <!-- 通道代码。 -->  
+      <serviceCode>20120626</serviceCode>  
+      <!-- 计费标准。 -->  
+      <feeValue>0</feeValue>  
+      <!-- 计费标准。 -->  
+      <feeType>1</feeType>  
+      <!-- 长号码。 -->  
+      <longCode/> 
+    </baseStrategy> 
+  </submitRouter>  
+  <!-- 基本策略 -->  
+  <submitRouter productId="2601" operatorId="1" provinceId="1" strategyType="1" subcodeFlag="1" filterLevel="0"> 
+    <baseStrategy> 
+      <!-- 网关ID。 -->  
+      <gatewayId>3520</gatewayId>  
+      <!-- 网关类型。 -->  
+      <gatewayType>1</gatewayType>  
+      <!-- 模块ID。 -->  
+      <moduleId>3520</moduleId>  
+      <!-- 通道ID。 -->  
+      <svcId>1539</svcId>  
+      <!-- 通道代码。 -->  
+      <serviceCode>20120626</serviceCode>  
+      <!-- 计费标准。 -->  
+      <feeValue>0</feeValue>  
+      <!-- 计费标准。 -->  
+      <feeType>1</feeType>  
+      <!-- 长号码。 -->  
+      <longCode/> 
+    </baseStrategy> 
+  </submitRouter>  
+  <!-- 基本策略 -->  
+  <submitRouter productId="10090" operatorId="2" provinceId="1" strategyType="1" subcodeFlag="1" filterLevel="0"> 
+    <baseStrategy> 
+      <!-- 网关ID。 -->  
+      <gatewayId>2802</gatewayId>  
+      <!-- 网关类型。 -->  
+      <gatewayType>2</gatewayType>  
+      <!-- 模块ID。 -->  
+      <moduleId>2802</moduleId>  
+      <!-- 通道ID。 -->  
+      <svcId>1556</svcId>  
+      <!-- 通道代码。 -->  
+      <serviceCode>9888</serviceCode>  
+      <!-- 计费标准。 -->  
+      <feeValue>0</feeValue>  
+      <!-- 计费标准。 -->  
+      <feeType>1</feeType>  
+      <!-- 长号码。 -->  
+      <longCode/> 
+    </baseStrategy> 
+  </submitRouter>  
+  <!-- 基本策略 -->  
+  <submitRouter productId="10093" operatorId="3" provinceId="1" strategyType="1" subcodeFlag="0" filterLevel="0"> 
+    <baseStrategy> 
+      <!-- 网关ID。 -->  
+      <gatewayId>2865</gatewayId>  
+      <!-- 网关类型。 -->  
+      <gatewayType>2</gatewayType>  
+      <!-- 模块ID。 -->  
+      <moduleId>2865</moduleId>  
+      <!-- 通道ID。 -->  
+      <svcId>1561</svcId>  
+      <!-- 通道代码。 -->  
+      <serviceCode>000</serviceCode>  
+      <!-- 计费标准。 -->  
+      <feeValue>1</feeValue>  
+      <!-- 计费标准。 -->  
+      <feeType>0</feeType>  
+      <!-- 长号码。 -->  
+      <longCode/> 
+    </baseStrategy> 
+  </submitRouter>  
+  <!-- 基本策略 -->  
+  <submitRouter productId="8783" operatorId="3" provinceId="1" strategyType="1" subcodeFlag="1" filterLevel="0"> 
+    <baseStrategy> 
+      <!-- 网关ID。 -->  
+      <gatewayId>3611</gatewayId>  
+      <!-- 网关类型。 -->  
+      <gatewayType>1</gatewayType>  
+      <!-- 模块ID。 -->  
+      <moduleId>3611</moduleId>  
+      <!-- 通道ID。 -->  
+      <svcId>1546</svcId>  
+      <!-- 通道代码。 -->  
+      <serviceCode>00004</serviceCode>  
+      <!-- 计费标准。 -->  
+      <feeValue>0</feeValue>  
+      <!-- 计费标准。 -->  
+      <feeType>1</feeType>  
+      <!-- 长号码。 -->  
+      <longCode>3</longCode> 
+    </baseStrategy> 
+  </submitRouter>  
+  <!-- 基本策略 -->  
+  <submitRouter productId="8783" operatorId="2" provinceId="1" strategyType="1" subcodeFlag="1" filterLevel="0"> 
+    <baseStrategy> 
+      <!-- 网关ID。 -->  
+      <gatewayId>3529</gatewayId>  
+      <!-- 网关类型。 -->  
+      <gatewayType>1</gatewayType>  
+      <!-- 模块ID。 -->  
+      <moduleId>3529</moduleId>  
+      <!-- 通道ID。 -->  
+      <svcId>1543</svcId>  
+      <!-- 通道代码。 -->  
+      <serviceCode>20120628</serviceCode>  
+      <!-- 计费标准。 -->  
+      <feeValue>0</feeValue>  
+      <!-- 计费标准。 -->  
+      <feeType>1</feeType>  
+      <!-- 长号码。 -->  
+      <longCode>22</longCode> 
+    </baseStrategy> 
+  </submitRouter>  
+  <!-- 基本策略 -->  
+  <submitRouter productId="8783" operatorId="1" provinceId="1" strategyType="1" subcodeFlag="1" filterLevel="0"> 
+    <baseStrategy> 
+      <!-- 网关ID。 -->  
+      <gatewayId>1</gatewayId>  
+      <!-- 网关类型。 -->  
+      <gatewayType>1</gatewayType>  
+      <!-- 模块ID。 -->  
+      <moduleId>2401</moduleId>  
+      <!-- 通道ID。 -->  
+      <svcId>1542</svcId>  
+      <!-- 通道代码。 -->  
+      <serviceCode>000001</serviceCode>  
+      <!-- 计费标准。 -->  
+      <feeValue>0</feeValue>  
+      <!-- 计费标准。 -->  
+      <feeType>1</feeType>  
+      <!-- 长号码。 -->  
+      <longCode>222</longCode> 
+    </baseStrategy> 
+  </submitRouter>  
+  <!-- 基本策略 -->  
+  <submitRouter productId="10092" operatorId="2" provinceId="1" strategyType="1" subcodeFlag="0" filterLevel="0"> 
+    <baseStrategy> 
+      <!-- 网关ID。 -->  
+      <gatewayId>2802</gatewayId>  
+      <!-- 网关类型。 -->  
+      <gatewayType>2</gatewayType>  
+      <!-- 模块ID。 -->  
+      <moduleId>2802</moduleId>  
+      <!-- 通道ID。 -->  
+      <svcId>1556</svcId>  
+      <!-- 通道代码。 -->  
+      <serviceCode>9888</serviceCode>  
+      <!-- 计费标准。 -->  
+      <feeValue>0</feeValue>  
+      <!-- 计费标准。 -->  
+      <feeType>1</feeType>  
+      <!-- 长号码。 -->  
+      <longCode>55</longCode> 
+    </baseStrategy> 
+  </submitRouter>  
+  <!-- 基本策略 -->  
+  <submitRouter productId="10092" operatorId="3" provinceId="1" strategyType="1" subcodeFlag="0" filterLevel="0"> 
+    <baseStrategy> 
+      <!-- 网关ID。 -->  
+      <gatewayId>2864</gatewayId>  
+      <!-- 网关类型。 -->  
+      <gatewayType>2</gatewayType>  
+      <!-- 模块ID。 -->  
+      <moduleId>2864</moduleId>  
+      <!-- 通道ID。 -->  
+      <svcId>1558</svcId>  
+      <!-- 通道代码。 -->  
+      <serviceCode>00201058</serviceCode>  
+      <!-- 计费标准。 -->  
+      <feeValue>0</feeValue>  
+      <!-- 计费标准。 -->  
+      <feeType>1</feeType>  
+      <!-- 长号码。 -->  
+      <longCode>33</longCode> 
+    </baseStrategy> 
+  </submitRouter>  
+  <!-- 基本策略 -->  
+  <submitRouter productId="11063" operatorId="1" provinceId="1" strategyType="1" subcodeFlag="1" filterLevel="0"> 
+    <baseStrategy> 
+      <!-- 网关ID。 -->  
+      <gatewayId>2701</gatewayId>  
+      <!-- 网关类型。 -->  
+      <gatewayType>1</gatewayType>  
+      <!-- 模块ID。 -->  
+      <moduleId>2701</moduleId>  
+      <!-- 通道ID。 -->  
+      <svcId>1563</svcId>  
+      <!-- 通道代码。 -->  
+      <serviceCode>1069</serviceCode>  
+      <!-- 计费标准。 -->  
+      <feeValue>1</feeValue>  
+      <!-- 计费标准。 -->  
+      <feeType>1</feeType>  
+      <!-- 长号码。 -->  
+      <longCode/> 
+    </baseStrategy> 
+  </submitRouter>  
+  <!-- 基本策略 -->  
+  <submitRouter productId="20121024" operatorId="1" provinceId="1" strategyType="1" subcodeFlag="0" filterLevel="0"> 
+    <baseStrategy> 
+      <!-- 网关ID。 -->  
+      <gatewayId>3516</gatewayId>  
+      <!-- 网关类型。 -->  
+      <gatewayType>1</gatewayType>  
+      <!-- 模块ID。 -->  
+      <moduleId>3516</moduleId>  
+      <!-- 通道ID。 -->  
+      <svcId>1564</svcId>  
+      <!-- 通道代码。 -->  
+      <serviceCode>000001</serviceCode>  
+      <!-- 计费标准。 -->  
+      <feeValue>1</feeValue>  
+      <!-- 计费标准。 -->  
+      <feeType>1</feeType>  
+      <!-- 长号码。 -->  
+      <longCode/> 
+    </baseStrategy> 
+  </submitRouter>  
+  <!-- 基本策略 -->  
+  <submitRouter productId="20220101" operatorId="1" provinceId="1" strategyType="1" subcodeFlag="0" filterLevel="0"> 
+    <baseStrategy> 
+      <!-- 网关ID。 -->  
+      <gatewayId>2630</gatewayId>  
+      <!-- 网关类型。 -->  
+      <gatewayType>1</gatewayType>  
+      <!-- 模块ID。 -->  
+      <moduleId>2630</moduleId>  
+      <!-- 通道ID。 -->  
+      <svcId>1560</svcId>  
+      <!-- 通道代码。 -->  
+      <serviceCode>000001</serviceCode>  
+      <!-- 计费标准。 -->  
+      <feeValue>1</feeValue>  
+      <!-- 计费标准。 -->  
+      <feeType>1</feeType>  
+      <!-- 长号码。 -->  
+      <longCode/> 
+    </baseStrategy> 
+  </submitRouter>  
+  <!-- 基本策略 -->  
+  <submitRouter productId="20121102" operatorId="1" provinceId="1" strategyType="1" subcodeFlag="1" filterLevel="0"> 
+    <baseStrategy> 
+      <!-- 网关ID。 -->  
+      <gatewayId>2630</gatewayId>  
+      <!-- 网关类型。 -->  
+      <gatewayType>1</gatewayType>  
+      <!-- 模块ID。 -->  
+      <moduleId>2630</moduleId>  
+      <!-- 通道ID。 -->  
+      <svcId>1560</svcId>  
+      <!-- 通道代码。 -->  
+      <serviceCode>000001</serviceCode>  
+      <!-- 计费标准。 -->  
+      <feeValue>1</feeValue>  
+      <!-- 计费标准。 -->  
+      <feeType>1</feeType>  
+      <!-- 长号码。 -->  
+      <longCode/> 
+    </baseStrategy> 
+  </submitRouter>  
+  <!-- 基本策略 -->  
+  <submitRouter productId="3223" operatorId="1" provinceId="1" strategyType="1" subcodeFlag="1" filterLevel="0"> 
+    <baseStrategy> 
+      <!-- 网关ID。 -->  
+      <gatewayId>3515</gatewayId>  
+      <!-- 网关类型。 -->  
+      <gatewayType>1</gatewayType>  
+      <!-- 模块ID。 -->  
+      <moduleId>3515</moduleId>  
+      <!-- 通道ID。 -->  
+      <svcId>1576</svcId>  
+      <!-- 通道代码。 -->  
+      <serviceCode>322</serviceCode>  
+      <!-- 计费标准。 -->  
+      <feeValue>1</feeValue>  
+      <!-- 计费标准。 -->  
+      <feeType>1</feeType>  
+      <!-- 长号码。 -->  
+      <longCode/> 
+    </baseStrategy> 
+  </submitRouter>  
+  <!-- 基本策略 -->  
+  <submitRouter productId="1121700001" operatorId="1" provinceId="1" strategyType="1" subcodeFlag="1" filterLevel="0"> 
+    <baseStrategy> 
+      <!-- 网关ID。 -->  
+      <gatewayId>2730</gatewayId>  
+      <!-- 网关类型。 -->  
+      <gatewayType>1</gatewayType>  
+      <!-- 模块ID。 -->  
+      <moduleId>2730</moduleId>  
+      <!-- 通道ID。 -->  
+      <svcId>1559</svcId>  
+      <!-- 通道代码。 -->  
+      <serviceCode>000001</serviceCode>  
+      <!-- 计费标准。 -->  
+      <feeValue>1</feeValue>  
+      <!-- 计费标准。 -->  
+      <feeType>1</feeType>  
+      <!-- 长号码。 -->  
+      <longCode/> 
+    </baseStrategy> 
+  </submitRouter>  
+  <!-- 基本策略 -->  
+  <submitRouter productId="1104100001" operatorId="1" provinceId="1" strategyType="1" subcodeFlag="0" filterLevel="0"> 
+    <baseStrategy> 
+      <!-- 网关ID。 -->  
+      <gatewayId>5</gatewayId>  
+      <!-- 网关类型。 -->  
+      <gatewayType>1</gatewayType>  
+      <!-- 模块ID。 -->  
+      <moduleId>2405</moduleId>  
+      <!-- 通道ID。 -->  
+      <svcId>1596</svcId>  
+      <!-- 通道代码。 -->  
+      <serviceCode>1104100001</serviceCode>  
+      <!-- 计费标准。 -->  
+      <feeValue>1</feeValue>  
+      <!-- 计费标准。 -->  
+      <feeType>1</feeType>  
+      <!-- 长号码。 -->  
+      <longCode/> 
+    </baseStrategy> 
+  </submitRouter>  
+  <!-- 基本策略 -->  
+  <submitRouter productId="2703" operatorId="1" provinceId="1" strategyType="1" subcodeFlag="1" filterLevel="0"> 
+    <baseStrategy> 
+      <!-- 网关ID。 -->  
+      <gatewayId>2801</gatewayId>  
+      <!-- 网关类型。 -->  
+      <gatewayType>2</gatewayType>  
+      <!-- 模块ID。 -->  
+      <moduleId>2801</moduleId>  
+      <!-- 通道ID。 -->  
+      <svcId>1547</svcId>  
+      <!-- 通道代码。 -->  
+      <serviceCode>1098</serviceCode>  
+      <!-- 计费标准。 -->  
+      <feeValue>0</feeValue>  
+      <!-- 计费标准。 -->  
+      <feeType>1</feeType>  
+      <!-- 长号码。 -->  
+      <longCode/> 
+    </baseStrategy> 
+  </submitRouter>  
+  <!-- 基本策略 -->  
+  <submitRouter productId="5215" operatorId="3" provinceId="1" strategyType="1" subcodeFlag="0" filterLevel="0"> 
+    <baseStrategy> 
+      <!-- 网关ID。 -->  
+      <gatewayId>17</gatewayId>  
+      <!-- 网关类型。 -->  
+      <gatewayType>1</gatewayType>  
+      <!-- 模块ID。 -->  
+      <moduleId>2417</moduleId>  
+      <!-- 通道ID。 -->  
+      <svcId>1598</svcId>  
+      <!-- 通道代码。 -->  
+      <serviceCode>923</serviceCode>  
+      <!-- 计费标准。 -->  
+      <feeValue>1</feeValue>  
+      <!-- 计费标准。 -->  
+      <feeType>1</feeType>  
+      <!-- 长号码。 -->  
+      <longCode/> 
+    </baseStrategy> 
+  </submitRouter>  
+  <!-- 基本策略 -->  
+  <submitRouter productId="5215" operatorId="2" provinceId="1" strategyType="1" subcodeFlag="0" filterLevel="0"> 
+    <baseStrategy> 
+      <!-- 网关ID。 -->  
+      <gatewayId>56</gatewayId>  
+      <!-- 网关类型。 -->  
+      <gatewayType>1</gatewayType>  
+      <!-- 模块ID。 -->  
+      <moduleId>2456</moduleId>  
+      <!-- 通道ID。 -->  
+      <svcId>1597</svcId>  
+      <!-- 通道代码。 -->  
+      <serviceCode>932</serviceCode>  
+      <!-- 计费标准。 -->  
+      <feeValue>1</feeValue>  
+      <!-- 计费标准。 -->  
+      <feeType>1</feeType>  
+      <!-- 长号码。 -->  
+      <longCode/> 
+    </baseStrategy> 
+  </submitRouter>  
+  <!-- 基本策略 -->  
+  <submitRouter productId="5215" operatorId="1" provinceId="1" strategyType="1" subcodeFlag="0" filterLevel="0"> 
+    <baseStrategy> 
+      <!-- 网关ID。 -->  
+      <gatewayId>5</gatewayId>  
+      <!-- 网关类型。 -->  
+      <gatewayType>1</gatewayType>  
+      <!-- 模块ID。 -->  
+      <moduleId>2405</moduleId>  
+      <!-- 通道ID。 -->  
+      <svcId>1596</svcId>  
+      <!-- 通道代码。 -->  
+      <serviceCode>1104100001</serviceCode>  
+      <!-- 计费标准。 -->  
+      <feeValue>1</feeValue>  
+      <!-- 计费标准。 -->  
+      <feeType>1</feeType>  
+      <!-- 长号码。 -->  
+      <longCode/> 
+    </baseStrategy> 
+  </submitRouter>  
+  <!-- 基本策略 -->  
+  <submitRouter productId="2656001" operatorId="1" provinceId="1" strategyType="1" subcodeFlag="0" filterLevel="0"> 
+    <baseStrategy> 
+      <!-- 网关ID。 -->  
+      <gatewayId>2656</gatewayId>  
+      <!-- 网关类型。 -->  
+      <gatewayType>1</gatewayType>  
+      <!-- 模块ID。 -->  
+      <moduleId>2656</moduleId>  
+      <!-- 通道ID。 -->  
+      <svcId>1616</svcId>  
+      <!-- 通道代码。 -->  
+      <serviceCode>2656</serviceCode>  
+      <!-- 计费标准。 -->  
+      <feeValue>1</feeValue>  
+      <!-- 计费标准。 -->  
+      <feeType>1</feeType>  
+      <!-- 长号码。 -->  
+      <longCode/> 
+    </baseStrategy> 
+  </submitRouter>  
+  <!-- 基本策略 -->  
+  <submitRouter productId="20120629" operatorId="2" provinceId="1" strategyType="1" subcodeFlag="0" filterLevel="0"> 
+    <baseStrategy> 
+      <!-- 网关ID。 -->  
+      <gatewayId>57</gatewayId>  
+      <!-- 网关类型。 -->  
+      <gatewayType>1</gatewayType>  
+      <!-- 模块ID。 -->  
+      <moduleId>2457</moduleId>  
+      <!-- 通道ID。 -->  
+      <svcId>1636</svcId>  
+      <!-- 通道代码。 -->  
+      <serviceCode>100000</serviceCode>  
+      <!-- 计费标准。 -->  
+      <feeValue>1</feeValue>  
+      <!-- 计费标准。 -->  
+      <feeType>1</feeType>  
+      <!-- 长号码。 -->  
+      <longCode/> 
+    </baseStrategy> 
+  </submitRouter>  
+  <!-- 基本策略 -->  
+  <submitRouter productId="20120629" operatorId="3" provinceId="1" strategyType="1" subcodeFlag="0" filterLevel="0"> 
+    <baseStrategy> 
+      <!-- 网关ID。 -->  
+      <gatewayId>18</gatewayId>  
+      <!-- 网关类型。 -->  
+      <gatewayType>1</gatewayType>  
+      <!-- 模块ID。 -->  
+      <moduleId>2418</moduleId>  
+      <!-- 通道ID。 -->  
+      <svcId>1637</svcId>  
+      <!-- 通道代码。 -->  
+      <serviceCode>20000</serviceCode>  
+      <!-- 计费标准。 -->  
+      <feeValue>1</feeValue>  
+      <!-- 计费标准。 -->  
+      <feeType>1</feeType>  
+      <!-- 长号码。 -->  
+      <longCode/> 
+    </baseStrategy> 
+  </submitRouter>  
+  <!-- 基本策略 -->  
+  <submitRouter productId="20120629" operatorId="1" provinceId="1" strategyType="1" subcodeFlag="0" filterLevel="0"> 
+    <baseStrategy> 
+      <!-- 网关ID。 -->  
+      <gatewayId>2630</gatewayId>  
+      <!-- 网关类型。 -->  
+      <gatewayType>1</gatewayType>  
+      <!-- 模块ID。 -->  
+      <moduleId>2630</moduleId>  
+      <!-- 通道ID。 -->  
+      <svcId>1560</svcId>  
+      <!-- 通道代码。 -->  
+      <serviceCode>000001</serviceCode>  
+      <!-- 计费标准。 -->  
+      <feeValue>1</feeValue>  
+      <!-- 计费标准。 -->  
+      <feeType>1</feeType>  
+      <!-- 长号码。 -->  
+      <longCode/> 
+    </baseStrategy> 
+  </submitRouter>  
+  <!-- 基本策略 -->  
+  <submitRouter productId="6767" operatorId="3" provinceId="1" strategyType="1" subcodeFlag="1" filterLevel="0"> 
+    <baseStrategy> 
+      <!-- 网关ID。 -->  
+      <gatewayId>2865</gatewayId>  
+      <!-- 网关类型。 -->  
+      <gatewayType>2</gatewayType>  
+      <!-- 模块ID。 -->  
+      <moduleId>2865</moduleId>  
+      <!-- 通道ID。 -->  
+      <svcId>1561</svcId>  
+      <!-- 通道代码。 -->  
+      <serviceCode>000</serviceCode>  
+      <!-- 计费标准。 -->  
+      <feeValue>1</feeValue>  
+      <!-- 计费标准。 -->  
+      <feeType>0</feeType>  
+      <!-- 长号码。 -->  
+      <longCode/> 
+    </baseStrategy> 
+  </submitRouter>  
+  <!-- 基本策略 -->  
+  <submitRouter productId="6767" operatorId="1" provinceId="1" strategyType="1" subcodeFlag="1" filterLevel="0"> 
+    <baseStrategy> 
+      <!-- 网关ID。 -->  
+      <gatewayId>2801</gatewayId>  
+      <!-- 网关类型。 -->  
+      <gatewayType>2</gatewayType>  
+      <!-- 模块ID。 -->  
+      <moduleId>2801</moduleId>  
+      <!-- 通道ID。 -->  
+      <svcId>1547</svcId>  
+      <!-- 通道代码。 -->  
+      <serviceCode>1098</serviceCode>  
+      <!-- 计费标准。 -->  
+      <feeValue>0</feeValue>  
+      <!-- 计费标准。 -->  
+      <feeType>1</feeType>  
+      <!-- 长号码。 -->  
+      <longCode/> 
+    </baseStrategy> 
+  </submitRouter>  
+  <!-- 基本策略 -->  
+  <submitRouter productId="1103700001" operatorId="3" provinceId="1" strategyType="1" subcodeFlag="0" filterLevel="0"> 
+    <baseStrategy> 
+      <!-- 网关ID。 -->  
+      <gatewayId>18</gatewayId>  
+      <!-- 网关类型。 -->  
+      <gatewayType>1</gatewayType>  
+      <!-- 模块ID。 -->  
+      <moduleId>2418</moduleId>  
+      <!-- 通道ID。 -->  
+      <svcId>1637</svcId>  
+      <!-- 通道代码。 -->  
+      <serviceCode>20000</serviceCode>  
+      <!-- 计费标准。 -->  
+      <feeValue>1</feeValue>  
+      <!-- 计费标准。 -->  
+      <feeType>1</feeType>  
+      <!-- 长号码。 -->  
+      <longCode>111</longCode> 
+    </baseStrategy> 
+  </submitRouter>  
+  <!-- 基本策略 -->  
+  <submitRouter productId="1103700001" operatorId="2" provinceId="1" strategyType="1" subcodeFlag="0" filterLevel="0"> 
+    <baseStrategy> 
+      <!-- 网关ID。 -->  
+      <gatewayId>57</gatewayId>  
+      <!-- 网关类型。 -->  
+      <gatewayType>1</gatewayType>  
+      <!-- 模块ID。 -->  
+      <moduleId>2457</moduleId>  
+      <!-- 通道ID。 -->  
+      <svcId>1636</svcId>  
+      <!-- 通道代码。 -->  
+      <serviceCode>100000</serviceCode>  
+      <!-- 计费标准。 -->  
+      <feeValue>1</feeValue>  
+      <!-- 计费标准。 -->  
+      <feeType>1</feeType>  
+      <!-- 长号码。 -->  
+      <longCode>111</longCode> 
+    </baseStrategy> 
+  </submitRouter>  
+  <!-- 基本策略 -->  
+  <submitRouter productId="1902200001" operatorId="1" provinceId="1" strategyType="1" subcodeFlag="0" filterLevel="0"> 
+    <baseStrategy> 
+      <!-- 网关ID。 -->  
+      <gatewayId>2630</gatewayId>  
+      <!-- 网关类型。 -->  
+      <gatewayType>1</gatewayType>  
+      <!-- 模块ID。 -->  
+      <moduleId>2630</moduleId>  
+      <!-- 通道ID。 -->  
+      <svcId>1560</svcId>  
+      <!-- 通道代码。 -->  
+      <serviceCode>000001</serviceCode>  
+      <!-- 计费标准。 -->  
+      <feeValue>1</feeValue>  
+      <!-- 计费标准。 -->  
+      <feeType>1</feeType>  
+      <!-- 长号码。 -->  
+      <longCode>111</longCode> 
+    </baseStrategy> 
+  </submitRouter>  
+  <!-- 基本策略 -->  
+  <submitRouter productId="20120820" operatorId="1" provinceId="1" strategyType="1" subcodeFlag="0" filterLevel="0"> 
+    <baseStrategy> 
+      <!-- 网关ID。 -->  
+      <gatewayId>3514</gatewayId>  
+      <!-- 网关类型。 -->  
+      <gatewayType>1</gatewayType>  
+      <!-- 模块ID。 -->  
+      <moduleId>3514</moduleId>  
+      <!-- 通道ID。 -->  
+      <svcId>1540</svcId>  
+      <!-- 通道代码。 -->  
+      <serviceCode>000001</serviceCode>  
+      <!-- 计费标准。 -->  
+      <feeValue>0</feeValue>  
+      <!-- 计费标准。 -->  
+      <feeType>1</feeType>  
+      <!-- 长号码。 -->  
+      <longCode/> 
+    </baseStrategy> 
+  </submitRouter> 
+</submitRouters>

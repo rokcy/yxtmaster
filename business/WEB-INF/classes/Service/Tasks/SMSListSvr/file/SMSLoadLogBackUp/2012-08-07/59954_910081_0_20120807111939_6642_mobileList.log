@@ -1,0 +1,49 @@
+
+SQL*Loader: Release 10.2.0.1.0 - Production on 星期二 8月 7 23:19:41 2012
+
+Copyright (c) 1982, 2005, Oracle.  All rights reserved.
+
+Control File:   /app/tech/apache-tomcat-6.0.14/webapps/business/WEB-INF/classes/Service/Tasks/SMSListSvr/SendList_tmp.ctl
+Data File:      /app/tech/apache-tomcat-6.0.14/webapps/business/WEB-INF/classes/Service/Tasks/SMSListSvr/file/SMSListFileBackUp/2012-08-07/59954_910081_0_20120807111939_6642_mobileList_new.txt
+  Bad File:     /app/tech/apache-tomcat-6.0.14/webapps/business/WEB-INF/classes/Service/Tasks/SMSListSvr/file/SMSLoadLogFile//59954_910081_0_20120807111939_6642_mobileList.bad
+  Discard File:  none specified
+ 
+ (Allow all discards)
+
+Number to load: ALL
+Number to skip: 0
+Errors allowed: 50
+Bind array:     50000 rows, maximum of 2000000 bytes
+Continuation:    none specified
+Path used:      Conventional
+
+Table TL_SMS_CONTENT_CH_TEMP, loaded from every logical record.
+Insert option in effect for this table: APPEND
+
+   Column Name                  Position   Len  Term Encl Datatype
+------------------------------ ---------- ----- ---- ---- ---------------------
+VC2MOBILE                           FIRST  4000   &       CHARACTER            
+NUMCONTENTID                         NEXT     *   &       CHARACTER            
+
+value used for ROWS parameter changed from 50000 to 469
+
+Table TL_SMS_CONTENT_CH_TEMP:
+  1 Row successfully loaded.
+  0 Rows not loaded due to data errors.
+  0 Rows not loaded because all WHEN clauses were failed.
+  0 Rows not loaded because all fields were null.
+
+
+Space allocated for bind array:                1997940 bytes(469 rows)
+Read   buffer bytes: 2000000
+
+Total logical records skipped:          0
+Total logical records read:             1
+Total logical records rejected:         0
+Total logical records discarded:        0
+
+Run began on 星期二 8月  07 23:19:41 2012
+Run ended on 星期二 8月  07 23:19:41 2012
+
+Elapsed time was:     00:00:00.26
+CPU time was:         00:00:00.02
